@@ -28,6 +28,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "general-page"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "special-pages"
