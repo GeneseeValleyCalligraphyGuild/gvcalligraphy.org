@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/gvcgpaula.png'
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -12,13 +12,28 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
+        <Link className="navbar-item" to="/aboutus">
+          About Us
         </Link>
-        <Link className="navbar-item" to="/products">
-          Products
+        <Link className="navbar-item" to="/membership">
+          Membership
         </Link>
-        <Link className="navbar-item" to="/contact">
+         <Link className="navbar-item" to="/meetings">
+          Meetings
+        </Link>
+          <Link className="navbar-item" to="/library">
+          Library
+        </Link>
+          <Link className="navbar-item" to="/workshops">
+          Workshops
+        </Link>
+          <Link className="navbar-item" to="/resources>
+          Resources
+        </Link>
+          <Link className="navbar-item" to="/links">
+          Links
+        </Link>
+          <Link className="navbar-item" to="/mailto:gvcalligraphy@gmail.com">
           Contact
         </Link>
         <Link className="navbar-item" to="/contact/examples">
