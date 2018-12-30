@@ -3,6 +3,8 @@ templateKey: general-page
 title: Links
 path: /links
 ---
+****
+
 **Store Web Sites**
 
 * [John Neal, Bookseller](https://www.johnnealbooks.com/jnb/)
@@ -25,11 +27,11 @@ path: /links
 
 **Book Arts**
 
-* [**Book Arts Tutorials - Lots of links to tutorials**](http://www.philobiblon.com/tutorials.shtml)****
+* [**Book Arts Tutorials - Lots of links to tutorials**](http://www.philobiblon.com/tutorials.shtml)\*\*\*\*
 * [Douglas Jones - Bookbinding Tutorial](http://homepage.divms.uiowa.edu/~jones/making/book/index.shtml)
 * [Making Books with Children - Free Projects](http://www.makingbooks.com/freeprojects.shtml)
 
-****[Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
+\*\*\*\*[Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
 
 [Templates, Instructions, Ideas - Southworth Paper](http://www.southworth.com/specialty/templates-specialty/)
 
@@ -49,6 +51,7 @@ path: /links
 
 **A few Calligraphers and Calligraphy Groups**
 
+* [Cyberscribes](https://groups.yahoo.com/neo/groups/cyberscribes/info) - an e-mail list of over 1,000 calligraphers and lettering artists from around the world 
 * [IAMPETH ](https://www.iampeth.com/)- The International Association of Master Penmen, Engrossers and Teachers of Handwriting; contains scans of many out-of-print books and lessons in pointed-pen lettering
 * [LetterSpace Nexus](http://letterspace.com/LETTERSPACE_NEXUS/) - a list of links, related to lettering and type design
 * [Roann Mathias](http://roanndesigns.com/)
@@ -68,7 +71,5 @@ path: /links
 
 * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program (free)
 * [Inkscape](https://inkscape.org/) - Free Open Source Vector Graphics Program
-
-
 
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
