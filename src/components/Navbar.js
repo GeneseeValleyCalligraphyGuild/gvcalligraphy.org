@@ -33,9 +33,9 @@ const Navbar = () => (
           <Link className="navbar-item" to="/links">
           Links
         </Link>
-          <Link className="navbar-item" to="/mailto:gvcalligraphy@gmail.com">
-          Contact
-        </Link>
+          <a className="navbar-item" href="/mailto:gvcalligraphy@gmail.com">
+          Contact Us
+        </a>
       </div>
       <div className="navbar-end">
         <a
