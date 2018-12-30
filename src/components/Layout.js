@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from "gatsby"
+import { StaticQuery, graphql, Link } from "gatsby"
 
 import logo from '../img/gvcgpaula.png'
 import Navbar from '../components/Navbar'
@@ -26,10 +26,12 @@ const TemplateWrapper = ({ children }) => (
           <meta name="description" content={data.site.siteMetadata.description} />
         </Helmet>
         <Navbar />
-        <img src={logo} alt="Genesee Valley Calligraphy Guild Logo" style={{
-          width: 'auto',
-          float: 'left',
-        }} />
+        <Link to="/" title="Logo">
+          <img src={logo} alt="Genesee Valley Calligraphy Guild Logo" style={{
+            width: 'auto',
+            float: 'left',
+          }} />
+        </Link>
         <div>{children}</div>
       </div>
     )}
