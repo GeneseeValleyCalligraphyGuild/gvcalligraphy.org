@@ -8,7 +8,7 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+          <img src={logo} alt="GVCG" style={{ width: '88px' }} />
         </Link>
       </div>
       <div className="navbar-start">
@@ -33,7 +33,7 @@ const Navbar = () => (
           <Link className="navbar-item" to="/links">
           Links
         </Link>
-          <a className="navbar-item" href="/mailto:gvcalligraphy@gmail.com">
+          <a className="navbar-item" href="mailto:gvcalligraphy@gmail.com">
           Contact Us
         </a>
       </div>
