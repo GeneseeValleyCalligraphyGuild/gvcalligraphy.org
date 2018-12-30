@@ -19,7 +19,9 @@ Browse our site for more information about the guild.
 
 Give the gift of a guild membership or workshop! Instructions are on the order form. A gift certificate in the amount you send will be mailed to you (or to the recipient) in your self-addressed stamped envelope.
 
-Speedball Textbook
+
+
+**Speedball Textbook**
 
 The “Centennial Edition” of the Speedball Textbook features an expanded history section showcasing additional pages from older editions as well as all new artwork in the “Gallery” and “Logo & Design” sections, and much more!
 
