@@ -8,11 +8,11 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item" title="Logo">
-          <img src={logo} alt="GVCG" style={{ width: '88px' }} />
+          <img src={logo} alt="GVCG"/>
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/aboutus">
+        <Link className="navbar-item" to="/about-us">
           About Us
         </Link>
         <Link className="navbar-item" to="/membership">
