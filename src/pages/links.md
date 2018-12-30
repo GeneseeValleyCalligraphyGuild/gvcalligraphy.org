@@ -41,53 +41,34 @@ path: /links
 * [Gridlines - Margaret Shepherd](http://www.margaretshepherd.com/worldcalligraphy_print.html)
 * [Grid / slant lines](http://www.anomaly.org/debbie/calligraphy/guidelines.html)
 * [Generate PDFs of grid / slant lines; lots of options](http://www.allunderone.org/calligraphy2/calligraphy.php)
+* [line generator](http://www.allunderone.org/calligraphy2/calligraphy.php)
+* [Ductus](http://ductus.josselincuette.com/) - line generator
+* [Scribblers Guideline Generator](https://www.scribblers.co.uk/guideline-generator/)
 
 [How to Paint Backwards](http://www.watercolor-online.com/Articles/Backwards/backwards.phtml)
 
-**Calligraphers and Calligraphy Groups**
+**A few Calligraphers and Calligraphy Groups**
 
-Cyberscribes - an e-mail list of over 1,000 calligraphers and lettering artists from around the world
-
-Cyberscribes Graphics Board - a dynamic board used by Cyberscribes to post artwork, pictures of tools, pictures to illustrate techniques, etc.
-
-Cynscribe - a treasure trove of calligraphy-related links, including sources for supplies, book arts, collage, hands, instruction. One of the most comprehensive lists of calligraphy-related links, if not THE most.
-
-IAMPETH - The International Association of Master Penmen, Engrossers and Teachers of Handwriting; contains scans of many out-of-print books and lessons in pointed-pen lettering
-
-LetterSpace Nexus - another list of links, related to lettering and type design
-
-Roann Mathias
-
-Annie Cicale
-
-Cari Ferraro
-
-Mike Kecseg
-
-Jane Parillo
-
-Ray Ritchie
-
-Ziller of Kansas City - Rich & Vivian Mungall
-
-Rory Kotin - NYC calligrapher - samples and price chart
+* [IAMPETH ](https://www.iampeth.com/)- The International Association of Master Penmen, Engrossers and Teachers of Handwriting; contains scans of many out-of-print books and lessons in pointed-pen lettering
+* [LetterSpace Nexus](http://letterspace.com/LETTERSPACE_NEXUS/) - a list of links, related to lettering and type design
+* [Roann Mathias](http://roanndesigns.com/)
+* [Annie Cicale](http://www.cicaleletteringdesign.com/)
+* [Cari Ferraro](http://proseandletters.com/index.html)
+* [Mike Kecseg](http://www.pengraphicsstudio.com/)
+* [Jane Parillo](https://www.janeparilloscribe.com/)
+* [Ray Ritchie](http://www.rritchie.com/)
+* [Ziller of Kansas City](https://zillers.com/learning/) - Rich & Vivian Mungall
+* [Rory Kotin](http://www.scribeinkcalligraphy.com/About) - NYC calligrapher - samples and price chart
 
 **Conferences**
 
-[Rendezvous - Sherbrooke, Quebec - 2019](https://rendezvouscalligraphy.org/en/index)
+* [Rendezvous - Sherbrooke, Quebec - 2019](https://rendezvouscalligraphy.org/en/index)
 
 **Software**
 
-GIMP - GNU Image Manipulation Program (free)
+* [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program (free)
+* [Inkscape](https://inkscape.org/) - Free Open Source Vector Graphics Program
 
-GIMP for Windows
 
-Inkscape - Free Open Source Vector Graphics Program
-
-line generator
-
-Ductus - line generator
-
-Scribblers Guideline Generator
 
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
