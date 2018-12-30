@@ -3,7 +3,7 @@ templateKey: general-page
 title: Links
 path: /links
 ---
-****
+- - -
 
 **Store Web Sites**
 
@@ -27,11 +27,11 @@ path: /links
 
 **Book Arts**
 
-* [**Book Arts Tutorials - Lots of links to tutorials**](http://www.philobiblon.com/tutorials.shtml)\*\*\*\*
+* [**Book Arts Tutorials - Lots of links to tutorials**](http://www.philobiblon.com/tutorials.shtml)
 * [Douglas Jones - Bookbinding Tutorial](http://homepage.divms.uiowa.edu/~jones/making/book/index.shtml)
 * [Making Books with Children - Free Projects](http://www.makingbooks.com/freeprojects.shtml)
 
-\*\*\*\*[Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
+[Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
 
 [Templates, Instructions, Ideas - Southworth Paper](http://www.southworth.com/specialty/templates-specialty/)
 
