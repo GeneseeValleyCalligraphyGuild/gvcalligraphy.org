@@ -15,7 +15,7 @@ Browse our site for more information about the guild.
 
 ![Artist: Annie Barnhardt](/img/annieb_forever.jpg)
 
-Guild Gift Certificate Order Form 
+[Guild Gift Certificate Order Form ](/static/img/gvcg-gift-certificate.pdf)
 
 Give the gift of a guild membership or workshop! Instructions are on the order form. A gift certificate in the amount you send will be mailed to you (or to the recipient) in your self-addressed stamped envelope.
 
