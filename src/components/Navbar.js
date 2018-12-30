@@ -27,7 +27,7 @@ const Navbar = () => (
           <Link className="navbar-item" to="/workshops">
           Workshops
         </Link>
-          <Link className="navbar-item" to="/resources>
+          <Link className="navbar-item" to="/resources">
           Resources
         </Link>
           <Link className="navbar-item" to="/links">
@@ -35,9 +35,6 @@ const Navbar = () => (
         </Link>
           <Link className="navbar-item" to="/mailto:gvcalligraphy@gmail.com">
           Contact
-        </Link>
-        <Link className="navbar-item" to="/contact/examples">
-          Form Examples
         </Link>
       </div>
       <div className="navbar-end">
