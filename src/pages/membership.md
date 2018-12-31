@@ -8,3 +8,7 @@ Membership dues are $20 per year covering April through March. Dues are due ever
 Members receive email messages with news about current calligraphic events and meetings. 
 
 Membership/Renewal Form
+
+
+
+![Artist: Toi Clawson](/img/toic_beauty.jpg)
