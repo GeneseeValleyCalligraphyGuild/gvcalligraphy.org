@@ -5,6 +5,8 @@ path: /
 ---
 ## Welcome to the Genesee Valley Calligraphy Guild
 
+![Artist: Annie Barnhardt](/img/annieb_forever.jpg)
+
 The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.
 
 Our regular meetings are held the First Wednesday of the month at 7 PM at the Barnes and Noble in Pittsford, NY. Our meeting room is large, open, and has tables on which to work.
@@ -12,8 +14,6 @@ Our regular meetings are held the First Wednesday of the month at 7 PM at the Ba
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
 Browse our site for more information about the guild.
-
-![Artist: Annie Barnhardt](/img/annieb_forever.jpg)
 
 [Guild Gift Certificate Order Form ](/img/gvcg-gift-certificate.pdf)
 
@@ -26,3 +26,5 @@ The “Centennial Edition” of the Speedball Textbook features an expanded hist
 In conjunction with the new book, they have a website (http://www.speedballart.com) which has Material Safety Data Sheets (MSDS) about their products, and some downloads under the Media tab for screen printing, lettering, drawing.
 
 The Speedball Textbook book has always been a reflection of the lettering of its time. This special Centennial Edition is a record of lettering today and an invaluable resource for students of all ages and levels.
+
+![Artist: Annie Barnhardt](/img/annieb_forever_young.jpg)
