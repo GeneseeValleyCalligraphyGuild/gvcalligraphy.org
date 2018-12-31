@@ -14,3 +14,7 @@ The Guild holds many “working” meetings, which appeals to students with a wi
 In 2004, the Guild hosted nationally-known calligraphy instructor Reggie Ezell. Reggie presented a comprehensive look at the many skills necessary to do fine calligraphy.
 
 Members have attended many calligraphy conferences over the years, and brought great skills and ideas back to the guild.  The 2019 conference will be held in Canada, near Montreal.
+
+
+
+![Artist: Jane Sturmer](/img/janes_speechofangels.jpg)
