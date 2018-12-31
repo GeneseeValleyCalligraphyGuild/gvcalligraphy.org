@@ -5,70 +5,63 @@ path: /library
 ---
 Items in our library may be borrowed between meetings, usually for one month. Titles include those listed here. Members interested in a particular book should contact Ellen Brannin before the next meeting.
 
-
-
 **Alphabets**
 
-* Letters & Alphabets, , Dover Pictura (book and CD)
-* Historic Calligraphic Alphabets, Baker, Arthur, Dover Publications
-* Roman Capitals, Baker, Arthur, Dover Publications
-* Monograms and Alphabetic Devices, Cirker, Howard & Blanche, Dover Publications
-* Ornamental Alphabets and Initials, Harding, Alison, Thames and Hudson
-* Allover Patterns with Letter Forms, Larcher, Jean, Dover Publications
-* Alphabets and Ornaments, Lehner, Ernst, Dover Publications
-* The Illuminated Alphabet, Menten, Theodore, Dover Publications
-* The Illuminated Alphabet, Seligman, Patricia & Noad, Timothy, Sterling Publishing Co.
-
-
+* _Letters & Alphabets_, , Dover Pictura (book and CD)
+* _Historic Calligraphic Alphabet_s, Baker, Arthur, Dover Publications
+* _Roman Capitals_, Baker, Arthur, Dover Publications
+* _Monograms and Alphabetic Devices_, Cirker, Howard & Blanche, Dover Publications
+* _Art in the Aplhabet_: A History of the Evolution of Hand Lettering, Day, Lewis F, Dover Publications
+* _Ornamental Alphabets and Initials_, Harding, Alison, Thames and Hudson
+* _Allover Patterns with Letter Form_s, Larcher, Jean, Dover Publications
+* _Alphabets and Ornaments_, Lehner, Ernst, Dover Publications
+* _The Illuminated Alphabet,_ Menten, Theodore, Dover Publications
+* _The Illuminated Alphabet,_ Seligman, Patricia & Noad, Timothy, Sterling Publishing Co.
 
 **Calligraphy**
 
-* Calligraphy Workstation
+* _Calligraphy Workstation_
 * Notebook of Calligraphy Handouts donated by a former member
-* The Graceful Envelope 1996
-* The Gutenberg Bible, The Huntington Library, San Marino, CA
-* Calligraphic Swash Initials, Baker, Arthur, Dover Books
-* Ornamental Calligraphy, Becker, George J., Dover Publications
-* The First Writing Book (Arrighi’s Operina), Benson, John J., Yale University Press
-* Wind Songs, Botts, Timothy, Tyndale House
-* Door Posts, Botts, Timothy, Tyndale House
-* How to Become a Professional Calligrapher, David, Stuart, Taplinger
-* Complete Studio Tips for artists and graphic designers, Gray, Bill, W. W. Norton & Co.
-* The Calligrapher's Project Book, Haines, Susanne, Harper Collins
-* Creative Lettering, Harvey, Michael
-* Decoration and Its Uses, Johnston, Edward, Ten Speed Press
-* Writing & Illuminated Lettering, Johnston, Edward, Dover Publications
-* Calligraphy in the Copperplate Style, Kaufman, Herb & Homelsky, Geri, Dover Publications
-* The Calligrapher’s Handbook, Lamb, C. M. (editor), Faber & Faber
-* Learning Gothic, Lincoln, Abraham, Abraham Lincoln
-* Ornamental Pictorial Calligraphy, Lupfer, E. A., Dover Publications
-* Creative Calligraphy, Lynskey, Marie, Baker, Land and Unwin
-* Learning Copperplate Spencerian Script, Menser, Larry, Hunt Speedball
-* Choirs of Angels, Metropolitan Museum of Art
-* Brush Lettering, Reaves, Marilyn and Schulte, Eliza, Design Books
-* Borders for Calligraphy, Shepherd, Margaret, Perigee
-* Calligraphy Alphabets Made Easy, Shepherd, Margaret, Perigree
-* Calligraphy Projects for Pleasure and Profit, Shepherd, Margaret, Perigee
-* Using Calligraphy, Shepherd, Margaret, Collier Books
-* Pen Calligraphy, Strom, Fran of Aha Calligraphy ( Video)
-* Left-Handed Calligraphy, Studley, Vance, Dover Publications
-* Written Letters, Svaren, Jacqueline, Taplinger Publishing
-* Pots & Pens Three- a Cook Book of Favorite Recipes, Valley Calligraphy Guild, Valley Calligraphy Guild
-* Sixth Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* Fifth Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* Fourth Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* Third Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* Second Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* Manual for the Calligraphic Arts, Van Milligen, Jane, Center for Calligraphic Arts
-* The Art of Hand Lettering, Wotzkow, Helm, Dover Publications
-
-
+* _The Graceful Envelope 1996_
+* _The Gutenberg Bible_, The Huntington Library, San Marino, CA
+* _Calligraphic Swash Initials_, Baker, Arthur, Dover Books
+* _Ornamental Calligraphy_, Becker, George J., Dover Publications
+* _The First Writing Book_ (Arrighi’s Operina), Benson, John J., Yale University Press
+* _Wind Songs_, Botts, Timothy, Tyndale House
+* _Door Posts_, Botts, Timothy, Tyndale House
+* _How to Become a Professional Calligrapher,_ David, Stuart, Taplinger
+* _Complete Studio Tips for artists and graphic designers_, Gray, Bill, W. W. Norton & Co.
+* _The Calligrapher's Project Book_, Haines, Susanne, Harper Collins
+* _Creative Lettering_, Harvey, Michael
+* _Decoration and Its Uses_, Johnston, Edward, Ten Speed Press
+* _Writing & Illuminated Lettering_, Johnston, Edward, Dover Publications
+* _Calligraphy in the Copperplate Style_, Kaufman, Herb & Homelsky, Geri, Dover Publications
+* _The Calligrapher’s Handbook_, Lamb, C. M. (editor), Faber & Faber
+* _Learning Gothic_, Lincoln, Abraham, Abraham Lincoln
+* _Ornamental Pictorial Calligraphy_, Lupfer, E. A., Dover Publications
+* _Creative Calligraphy_, Lynskey, Marie, Baker, Land and Unwin
+* _Learning Copperplate Spencerian Script,_ Menser, Larry, Hunt Speedball
+* _Choirs of Angels,_ Metropolitan Museum of Art
+* _Brush Lettering_, Reaves, Marilyn and Schulte, Eliza, Design Books
+* _Borders for Calligraphy,_ Shepherd, Margaret, Perigee
+* _Calligraphy Alphabets Made Easy_, Shepherd, Margaret, Perigree
+* _Calligraphy Projects for Pleasure and Profit,_ Shepherd, Margaret, Perigee
+* _Using Calligraphy_, Shepherd, Margaret, Collier Books
+* _Pen Calligraphy,_ Strom, Fran of Aha Calligraphy ( Video)
+* _Left-Handed Calligraphy_, Studley, Vance, Dover Publications
+* _Written Letters,_ Svaren, Jacqueline, Taplinger Publishing
+* _Pots & Pens Three- a Cook Book of Favorite Recipes_, Valley Calligraphy Guild, Valley Calligraphy Guild
+* _Sixth Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _Fifth Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _Fourth Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _Third Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _Second Manual for the Calligraphic Arts,_ Van Milligen, Jane, Center for Calligraphic Arts
+* _Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _The Art of Hand Lettering,_ Wotzkow, Helm, Dover Publications
 
 **Calligraphy for Children**
 
-Yours Truly, King Arthur, Drogin, Marc, Taplinger Publishing
-
-
+_Yours Truly, King Arthur,_ Drogin, Marc, Taplinger Publishing
 
 **Calligraphy Calendars**
 
@@ -78,24 +71,18 @@ Yours Truly, King Arthur, Drogin, Marc, Taplinger Publishing
 * Collection of Calendars-1989-1996, 1998, Sarnack, Phyllis, self
 * Proverbs for the Present 2005, Printery House
 
-
-
 **Copy Art**
 
-Copier Creations, Fleischman, Paul, Harper Trophy
-
-
+_Copier Creations_, Fleischman, Paul, Harper Trophy
 
 **Layout and Design**
 
-* Ready-to-Use Layouts for Desktop Design, Collier, David & Floyd, Kay, North Light Books
-* Design with Type, Dair, Carl, University of Toronto Press
-* Using Calligraphy, Layout and Design Ideas, Furber, Alan, Sterling
-* Layout and Design for Calligraphers, Furber, Alan, Taplinger
-* Design Basics, Lauer, David, Holt, Rinehart & Winston
-* Graphic Design Cookbook, Koren, Leonard and Meckler, R. Wippo, Chronicle Books
-
-
+* _Ready-to-Use Layouts for Desktop Design_, Collier, David & Floyd, Kay, North Light Books
+* _Design with Type_, Dair, Carl, University of Toronto Press
+* _Using Calligraphy, Layout and Design Ideas,_ Furber, Alan, Sterling
+* _Layout and Design for Calligraphers_, Furber, Alan, Taplinger
+* _Design Basics_, Lauer, David, Holt, Rinehart & Winston
+* _Graphic Design Cookbook,_ Koren, Leonard and Meckler, R. Wippo, Chronicle Books
 
 **Periodicals**
 
@@ -107,13 +94,11 @@ Copier Creations, Fleischman, Paul, Harper Trophy
 * Letter Arts Review back issues
 * Society of Scribes Journal, Fall 2000
 
-
-
 **Quotations**
 
-* The Family Album, DeMoss, Arthur and Nancy, The Family Album
-* A Modern Book of Hours, Denmon, Cherry
-* The Beauty of Life, Gibran, Kahlil, Hallmark
-* So, Stick a Geranium in Your Hat and Be Happy!, Johnson, Barbara, Word Publishing
-* Happy Birthday, , Peter Pauper Press
-* Ideas for Our Time, Peter, Dr. Larence, Morrow
+* _The Family Album_, DeMoss, Arthur and Nancy, The Family Album
+* _A Modern Book of Hours_, Denmon, Cherry
+* _The Beauty of Life,_ Gibran, Kahlil, Hallmark
+* _So, Stick a Geranium in Your Hat and Be Happy!_, Johnson, Barbara, Word Publishing
+* _Happy Birthday_, , Peter Pauper Press
+* _Ideas for Our Time_, Peter, Dr. Larence, Morrow
