@@ -7,13 +7,11 @@ Local calligraphy resources, including places to purchase supplies, classes, and
 
 Do you need a calligrapher?
 
-Guidelines when hiring a calligrapher (180 kB)
+[Guidelines when hiring a calligrapher](/img/calligraphyguideforevents.pdf)
 
+[Guest List Format](/img/guestlistformat.pdf)
 
-
-Guest List Format (80 kB)
-
-
+** **
 
 **Local Stores**
 
@@ -27,86 +25,66 @@ JoAnn's; stores
 
 The Art Stop, Penfield Rd at 441, Penfield
 
-
+** **
 
 **Calligraphy Classes in the Rochester Area:**
 
-Greece C.S.D. Community Education
+* Greece C.S.D. Community Education
+* 585-865-1010
+* Adult Classes September - June, Kids classes in the summer
 
-585-865-1010
+ 
 
-Adult Classes September - June, Kids classes in the summer
-
-
-
-OASIS (Seniors Programs for those 50 years of age and older)
-
-435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
-
-Usually taught by Barbara Griffin Galli
+* OASIS (Seniors Programs for those 50 years of age and older)
+* 435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
 
 
 
-Rush Henrietta C.S.D. Continuing Education
-
-585-359-7805
 
 
-
-Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton
-
-585-223-5050
-
-Adult Classes September - June, Kids classes in the summer
+* Rush Henrietta C.S.D. Continuing Education
+* 585-359-7805
 
 
 
-Town of Pittsford, Recreation Department, 35 Lincoln Avenue, Pittsford
+* Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton
+* 585-223-5050
+* Adult Classes September - June, Kids classes in the summer
 
-585-248-6280
 
-Adult classes September - June, Kids classes in the summer
 
-Some courses taught by Barbara Griffin Galli
+* Town of Pittsford, Recreation Department, 35 Lincoln Avenue, Pittsford
+* 585-248-6280
+* Adult classes September - June, Kids classes in the summer
 
 
 
 In addition many Monroe County libraries hold a single, introductory, hands on program, for adults or teens. These include Irondequoit Public Library, Henrietta Public Library, Fairport Public Library, Gates Public Library, Charlotte Branch of the Monroe County Library System. Check their websites.
 
-
-
 Many area school districts offer introductory programs. Contact your school district's Community Education office.
-
-
 
 R.I.T.
 
 You do not need to be a registered student at R.I.T. to take a calligraphy class. Each quarter a different hand is taught: fall is Italic, winter is Roman caps, and spring is Foundational/Uncial. Tuition is reduced for non-credit courses. Guild member Lorrie Frear teaches the classes. Contact R.I.T.
 
-
-
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
 
+**Tips & Tricks**
 
+**Lettering**
 
-Tips & Tricks
+[Practice Sheet for Roman Capitals](/img/capitalspracticesheet.pdf)
 
-Lettering
+[Roman Capital Practice Sheet with Dots](/img/romanmajusculespracticesheet.pdf)
 
-Practice Sheet for Roman Capitals
+[Analyzing a Calligraphic Hand](/img/analyzingacalligraphichand.pdf)
 
-Roman Capital Practice Sheet with Dots
+[Linex Liner Instructions](/img/linexinstructions.pdf)
 
-Analyzing a Calligraphic Hand
+[Aluminum Can Pen](/img/aluminumcanpen.pdf)
 
-Linex Liner Instructions
+**Paper Crafts**
 
-Aluminum Can Pen
+[A Triangle Box made out of a circle](/img/trianglebox.pdf)
 
-
-
-Paper Crafts
-
-A Triangle Box made out of a circle
-
-A Treat Box
+[A Treat Box](/img/treatbox.pdf)
