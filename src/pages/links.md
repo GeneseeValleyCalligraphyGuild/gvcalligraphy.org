@@ -3,8 +3,6 @@ templateKey: general-page
 title: Links
 path: /links
 ---
-- - -
-
 **Store Web Sites**
 
 * [John Neal, Bookseller](https://www.johnnealbooks.com/jnb/)
