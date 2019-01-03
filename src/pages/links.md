@@ -62,6 +62,7 @@ path: /links
 * [Ray Ritchie](http://www.rritchie.com/)
 * [Ziller of Kansas City](https://zillers.com/learning/) - Rich & Vivian Mungall
 * [Rory Kotin](http://www.scribeinkcalligraphy.com/About) - NYC calligrapher - samples and price chart
+* [Guilds, Conferences and Museums](http://calligrafile.com/guilds-conferences-museums/) - list of guilds conferences, workshops, museums around the world
 
 **Conferences**
 
