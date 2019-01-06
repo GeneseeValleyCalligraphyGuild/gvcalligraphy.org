@@ -5,7 +5,7 @@ path: /exhibits
 ---
 We're working on traveling exhibits that will be displayed at local libraries and businesses.
 
-Below are some pictures of the exhibit at the Penfield Library in October 2018.
+Below are some pictures of the exhibit at the Macedon and Penfield Libraries in 2018.
 
 ![](/img/penfieldlibrary1810_1.jpg)
 
