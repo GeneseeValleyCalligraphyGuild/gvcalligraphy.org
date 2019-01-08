@@ -7,6 +7,6 @@ Membership dues are $20 per year covering April through March. Dues are due ever
 
 Members receive email messages with news about current calligraphic events and meetings. 
 
-[Membership/Renewal Form](/img/gvcg-membership-form-2017.pdf)
+[Membership/Renewal Form](/img/gvcg_renewal_2019.pdf)
 
 ![Artist: Toi Clawson](/img/toic_beauty.jpg)
