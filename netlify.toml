@@ -4,3 +4,54 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+
+Netlify's PlaygroundRedirectsHeadersDocsTest rules
+
+
+[[redirects]]
+from = "/Main/AboutUs"
+to = "/about-us"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Membership"
+to = "/membership"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Meetings"
+to = "/meetings"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Library"
+to = "/library"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Workshops"
+to = "/workshops"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Exhibits"
+to = "/exhibits"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Resources"
+to = "/resources"
+status = 301
+force = false
+
+[[redirects]]
+from = "/Main/Links"
+to = "/links"
+status = 301
+force = false
