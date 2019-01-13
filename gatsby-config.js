@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
-    description: 'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+    title: 'Genesee Valley Calligraphy Guild',
+    description: 'The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
