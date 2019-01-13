@@ -5,9 +5,6 @@
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
 
-Netlify's PlaygroundRedirectsHeadersDocsTest rules
-
-
 [[redirects]]
 from = "/Main/AboutUs"
 to = "/about-us"
