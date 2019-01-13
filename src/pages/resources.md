@@ -11,7 +11,7 @@ Do you need a calligrapher?
 
 [Guest List Format](/img/guestlistformat.pdf)
 
-** **
+- - -
 
 **Local Stores**
 
@@ -25,39 +25,23 @@ JoAnn's; stores
 
 The Art Stop, Penfield Rd at 441, Penfield
 
-** **
+- - -
 
 **Calligraphy Classes in the Rochester Area:**
 
-* Greece C.S.D. Community Education
-* 585-865-1010
-* Adult Classes September - June, Kids classes in the summer
-
- 
-
-* OASIS (Seniors Programs for those 50 years of age and older)
-* 435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
-
-
-
-
-
-* Rush Henrietta C.S.D. Continuing Education
-* 585-359-7805
-
-
-
-* Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton
-* 585-223-5050
-* Adult Classes September - June, Kids classes in the summer
-
-
-
-* Town of Pittsford, Recreation Department, 35 Lincoln Avenue, Pittsford
-* 585-248-6280
-* Adult classes September - June, Kids classes in the summer
-
-
+* Greece C.S.D. Community Education\
+  585-865-1010\
+  Adult Classes September - June, Kids classes in the summer
+* OASIS (Seniors Programs for those 50 years of age and older)\
+  435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
+* Rush Henrietta C.S.D. Continuing Education\
+  585-359-7805
+* Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton\
+  585-223-5050\
+  Adult Classes September - June, Kids classes in the summer
+* Town of Pittsford, Recreation Department, 35 Lincoln Avenue, Pittsford\
+  585-248-6280\
+  Adult classes September - June, Kids classes in the summer
 
 In addition many Monroe County libraries hold a single, introductory, hands on program, for adults or teens. These include Irondequoit Public Library, Henrietta Public Library, Fairport Public Library, Gates Public Library, Charlotte Branch of the Monroe County Library System. Check their websites.
 
