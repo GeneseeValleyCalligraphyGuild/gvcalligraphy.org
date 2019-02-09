@@ -23,7 +23,7 @@ From 104, Take 590 S to the Monroe Avenue exit. Turn east onto Monroe Avenue. Co
 
 January - Planning Meeting
 
-February - [Calligraphy and Snowflakes](february-meeting) - Please bring a pencil and a pair of scissors to the February guild meeting.  Lisa will challenge you to design a paper snowflake with your name or initials.
+February - [Calligraphy and Snowflakes](../february-meeting) - Please bring a pencil and a pair of scissors to the February guild meeting.  Lisa will challenge you to design a paper snowflake with your name or initials.
 
 March - Repetition of Letterforms
 
