@@ -5,7 +5,7 @@ path: februarynotes
 ---
 First, we have two Orders of Business 
 
-1. Dues are DUE in March! Please send your information and check for $20 to Marian Henry. If your dues and information are not received promptly, your name may not appear in this year’s directory.  If there are no changes to your information, kindly note that along with your check number. Thank you!
+Dues are DUE in March! Please send your information and check for $20 to Marian Henry. If your dues and information are not received promptly, your name may not appear in this year’s directory.  If there are no changes to your information, kindly note that along with your check number. Thank you!
 
 Second, although our current meeting location is working for the time being, Barnes and Noble is not doing well overall. We risk losing our venue without notice. We are exploring other options. 
 
