@@ -5,7 +5,7 @@ path: februarynotes
 ---
 First, we have two Orders of Business 
 
-1) Dues are DUE in March! Please send your information and check for $20 to Marian Henry. If your dues and information are not received promptly, your name may not appear in this year’s directory.  If there are no changes to your information, kindly note that along with your check number. Thank you!
+1. Dues are DUE in March! Please send your information and check for $20 to Marian Henry. If your dues and information are not received promptly, your name may not appear in this year’s directory.  If there are no changes to your information, kindly note that along with your check number. Thank you!
 
 Second, although our current meeting location is working for the time being, Barnes and Noble is not doing well overall. We risk losing our venue without notice. We are exploring other options. 
 
@@ -24,3 +24,11 @@ Sketch your design in pencil onto the top section of your snowflake. Lisa’s ha
 Using sharp scissors and possibly a paper punch, proceed to cut away the extra paper. Hold tightly to keep the folds stacked. 
 
 Then unfold your amazing creation. The coffee filter will tend to take an umbrella shape. You may want to press it flat under a book or with a warm iron. Don’t worry, coffee filters are made to take the heat; your snowflake will not melt.
+
+![](/img/snowflakes2.jpeg)
+
+![](/img/snowflakes2.jpeg)
+
+![](/img/snowflakes3.jpeg)
+
+![](/img/snowflakes4.jpeg)
