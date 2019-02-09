@@ -13,7 +13,7 @@ Our March meeting will be held at the Perinton Community Center at 1350 Turk Hil
 
 Third, there are a total of 12 seats available for Annie’s Beginning Italic class. There will be homework because as in many things, you will get out of it what you put into it. 
 
-Presentation: Snowflakes with Lisa Fox
+**Presentation: Snowflakes with Lisa Fox**
 
 Lisa distributed coffee filters for the evening’s activity. These work well because they’re round and thin but sturdy. 
 
