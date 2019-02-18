@@ -11,6 +11,10 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 Our regular meetings are held the First Wednesday of the month at 7 PM at the Barnes and Noble in Pittsford, NY. Our meeting room is large, open, and has tables on which to work.
 
+**MARCH 2019 Meeting will be held at the Perinton Community Center at 1350Turk Hill Road.**
+
+****[**Beginning Italic Class starts Soon!**](/img/ItalicFlier.pdf)****
+
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
 Browse our site for more information about the guild.
