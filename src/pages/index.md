@@ -13,7 +13,7 @@ Our regular meetings are held the First Wednesday of the month at 7 PM at the Ba
 
 **MARCH 2019 Meeting will be held at the Perinton Community Center at 1350Turk Hill Road.**
 
-[Beginning Italic Class starts Soon!](/img/italic-flier.pdf)
+[Beginning Italic Class starts Soon!](/img/italic-flier_corrected.pdf)
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
