@@ -15,11 +15,11 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 January - Planning Meeting
 
-February - [Calligraphy and Snowflakes](../february-meeting) - Please bring a pencil and a pair of scissors to the February guild meeting.  Lisa will challenge you to design a paper snowflake with your name or initials.
+February - [Calligraphy and Snowflakes](../february-meeting) 
 
 March - [Alphabet "Soup"](march-meeting)
 
-April - TBA
+April - Visiting WWII Vet and artist Owen Hughes
 
 May - Slideshow of old Conference slides and discussion of slides
 
