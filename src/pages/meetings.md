@@ -3,7 +3,7 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-**Meeting Location Change: Our meetings will be held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[**https://goo.gl/maps/LQNrJJ2Du1P2**](https://goo.gl/maps/LQNrJJ2Du1P2)\*\*\*\*
+**Meeting Location Change: Our meetings will be held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://goo.gl/maps/8XzVwpg5A972)
 
 Most meetings will be in room 205 - the art and craft room.
 
