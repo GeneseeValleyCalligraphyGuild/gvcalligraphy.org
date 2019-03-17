@@ -9,9 +9,7 @@ path: /
 
 The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.
 
-Our regular meetings are held the First Wednesday of the month at 7 PM at the Barnes and Noble in Pittsford, NY. Our meeting room is large, open, and has tables on which to work.
-
-**MARCH 2019 Meeting will be held at the Perinton Community Center at 1350Turk Hill Road.**
+**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205.**
 
 [Beginning Italic Class starts Soon!](/img/italic-flier_corrected.pdf)
 
