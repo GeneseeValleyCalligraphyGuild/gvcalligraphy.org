@@ -19,7 +19,7 @@ February - [Calligraphy and Snowflakes](../february-meeting)
 
 March - [Alphabet "Soup"](march-meeting)
 
-April - Visiting WWII Vet and artist Owen Hughes
+April - Visiting WWII Vet and artist [Owen Hughes ](/img/owenhughesflier.pdf)- in Room 204A
 
 May - Slideshow of old Conference slides and discussion of slides
 
