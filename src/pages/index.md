@@ -9,7 +9,9 @@ path: /
 
 The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.
 
-**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205.**
+**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205. The April Meeting will be in Room 204A, where we will have special guest Owen Hughes, a 100-year-old WWII Vet and airplane nose painter.**
+
+****[**Owen Hughes Flier**](/img/owenhughesflier.pdf)****
 
 [Beginning Italic Class starts Soon!](/img/italic-flier_corrected.pdf)
 
