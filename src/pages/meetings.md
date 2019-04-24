@@ -17,9 +17,9 @@ January - Planning Meeting
 
 February - [Calligraphy and Snowflakes](../february-meeting) 
 
-March - [Alphabet "Soup"](march-meeting)
+March - [Alphabet "Soup"](../march-meeting)
 
-April -[ Visiting WWII Vet and artist Owen Hughes](april-meeting)
+April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
 May - Lisa will guide a discussion of some calligraphy slides the guild has in its ownership.  These include photos of calligraphic pieces done by teachers and participants at the international conferences over the years.  Discussion topics will include letterforms, layout, color selection, and the question which always has Lisa puzzled..."Does it work?"  This seems to be a matter of opinion but the "experts" who selected these slides for the carousel seem to think so.  Come and take part in a lively interchange of ideas and what we can learn from the "experts" and apply to our own work.
 
