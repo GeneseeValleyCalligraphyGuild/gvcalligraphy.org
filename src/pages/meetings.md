@@ -21,8 +21,14 @@ March - [Alphabet "Soup"](../march-meeting)
 
 April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
-May - Lisa will guide a discussion of some calligraphy slides the guild has in its ownership.  These include photos of calligraphic pieces done by teachers and participants at the international conferences over the years.  Discussion topics will include letterforms, layout, color selection, and the question which always has Lisa puzzled..."Does it work?"  This seems to be a matter of opinion but the "experts" who selected these slides for the carousel seem to think so.  Come and take part in a lively interchange of ideas and what we can learn from the "experts" and apply to our own work.
+May - There was a review of some slides the guild owns. Discussion topics includes letterforms, layout, color selection, and the question .."Does it work?"  This seems to be a matter of opinion but the "experts" who selected these slides for the carousel seem to think so.  
 
-June - TBA
+June - This month with the basic premise supplied we will encourage you to design your own little piece of art.  Yes, right at the meeting.
+
+You will be given a theme, which you can also choose to ignore, of Alice in Wonderland’s Tea Party.  With some concrete suggestions we will cover the beginning and hopefully middle steps in the process of creating a piece without going down the “rabbit hole”.  Besides a piece of Arches textwove you will be given an idea of an image, some inspiration at what others have done with it and work to make something completely your own.  More experienced calligraphers will be encouraged to sit with less experienced to work on layout, learn to tear paper (textwove) and how to transfer an image to go with your text if you are uncomfortable drawing.  Your pieces will not be large nor should they be intimidating.  If you get stuck there will be people who can help you.  Don't worry about mistakes, we will be working to create a draft.  To add a little more interest there will be a challenge at the end.
+
+Bring whatever supplies you might want to experiment with on textwove.  If you have pan watercolors that travel easily bring them.  Otherwise bring a ruler and any medium you want: markers, oil pastels, colored pencils, graphite pencils, any medium to add color, a lettering tool of your choice and anything you need to apply them.  If you like collage, consider bringing some papers and glue.  Letters can be penned or drawn; there are no limits to your creativity.  If you have a very short quote about tea you might want to have that written down.  This will be fun!
+
+Georgie Knapp
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
