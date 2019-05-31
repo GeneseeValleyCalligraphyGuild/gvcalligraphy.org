@@ -5,7 +5,23 @@ path: /workshops
 ---
 **Coming Workshops**
 
-2019 - Barbara Close will visit us with Textured Letters. More information coming soon.
+Barbara Close will visit us with **Textured Letters**. 
+
+October 19, Saturday (9 AM to 4 PM) \
+October 20, Sunday (10 AM to 4 PM) \
+Please arrive at least 15 mintues early 	
+
+Perinton Recreation Center Room #212 \
+1350 Turk Hill Road \
+Fairport NY  14450 	
+
+Additional Materials FMembers $125.00 \
+Non-members $150.00 \
+Note:  Dues are $20 see Membership page for membership information
+
+Supply List to be Provided to participants 	
+
+Participation is Limited, member registration starts July 1st.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
