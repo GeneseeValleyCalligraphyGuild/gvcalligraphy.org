@@ -15,9 +15,10 @@ Perinton Recreation Center Room #212 \
 1350 Turk Hill Road \
 Fairport NY  14450 	
 
-Additional Materials FMembers $125.00 \
+Members $125.00 \
 Non-members $150.00 \
-Note:  Dues are $20 see Membership page for membership information
+Note:  Dues are $20 see Membership page for membership information\
+Additional Materials Fee (minimal)
 
 Supply List to be Provided to participants 	
 
