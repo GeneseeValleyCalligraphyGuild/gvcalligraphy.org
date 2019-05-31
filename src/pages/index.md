@@ -9,11 +9,26 @@ path: /
 
 The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.
 
-**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205. The April Meeting will be in Room 204A, where we will have special guest Owen Hughes, a 100-year-old WWII Vet and airplane nose painter.**
+**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205. **
 
-[Owen Hughes Flier](/img/owenhughesflier.pdf)
+Workshop coming in October! Barbara Close will visit us with **Textured Letters**. 
 
-[Beginning Italic Class starts Soon!](/img/italic-flier_corrected.pdf)
+October 19, Saturday (9 AM to 4 PM) \
+October 20, Sunday (10 AM to 4 PM) \
+Please arrive at least 15 mintues early 	
+
+Perinton Recreation Center Room #212 \
+1350 Turk Hill Road \
+Fairport NY  14450 
+
+Members $125.00 \
+Non-members $150.00 \
+Note:  Dues are $20 see Membership page for membership information\
+Additional Materials Fee (minimal)
+
+Supply List to be Provided to participants 	
+
+Participation is Limited, member registration starts July 1st.
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
