@@ -11,7 +11,7 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 **Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205. **
 
-Workshop coming in October! Barbara Close will visit us with **Textured Letters**. 
+Workshop coming in October! [Barbara Close will visit us with **Textured Letters**](../img/BarbaraCloseWksp19.pdf). 
 
 October 19, Saturday (9 AM to 4 PM) \
 October 20, Sunday (10 AM to 4 PM) \
