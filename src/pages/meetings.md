@@ -21,7 +21,13 @@ March - [Alphabet "Soup"](../march-meeting)
 
 April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
-May - There was a review of some slides the guild owns. Discussion topics includes letterforms, layout, color selection, and the question .."Does it work?"  This seems to be a matter of opinion but the "experts" who selected these slides for the carousel seem to think so.  
+May - At our May meeting, we viewed slides from our collection of work done by instructors at past conferences. Slides! We discussed what made some of those pieces work effectively.\
+A few of the things we noted were\
+1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.\
+2. Colors can be used in an variety of ways. Backgrounds, decorative elements, and the lettering itself offer opportunities to add color.\
+3. Visual texture is created by the density of strokes, as is a sense of motion.\
+4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.\
+With these ideas fresh in mind, Georgie Knapp will help us apply them to our own work. 
 
 June - This month with the basic premise supplied we will encourage you to design your own little piece of art.  Yes, right at the meeting.
 
