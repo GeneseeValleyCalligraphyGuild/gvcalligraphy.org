@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Coming Workshops**
 
-[Barbara Close will visit us with **Textured Letters**](../img/BarbaraCloseWksp19.pdf). 
+[Barbara Close will visit us with **Textured Letters**](../img/barbaraclose191019-20.pdf). 
 
 October 19, Saturday (9 AM to 4 PM) \
 October 20, Sunday (10 AM to 4 PM) \
