@@ -22,19 +22,21 @@ March - [Alphabet "Soup"](../march-meeting)
 April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
 May - At our May meeting, we viewed slides from our collection of work done by instructors at past conferences. Slides! We discussed what made some of those pieces work effectively.\
-A few of the things we noted were\
+A few of the things we noted were:
+
 1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.\
 2. Colors can be used in an variety of ways. Backgrounds, decorative elements, and the lettering itself offer opportunities to add color.\
 3. Visual texture is created by the density of strokes, as is a sense of motion.\
 4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.\
-With these ideas fresh in mind, Georgie Knapp will help us apply them to our own work. 
+   With these ideas fresh in mind, Georgie Knapp will help us apply them to our own work. 
 
-June - This month with the basic premise supplied we will encourage you to design your own little piece of art.  Yes, right at the meeting.
-
+June - This month with the basic premise supplied we will encourage you to design your own little piece of art. \
 You will be given a theme, which you can also choose to ignore, of Alice in Wonderland’s Tea Party.  With some concrete suggestions we will cover the beginning and hopefully middle steps in the process of creating a piece without going down the “rabbit hole”.  Besides a piece of Arches textwove you will be given an idea of an image, some inspiration at what others have done with it and work to make something completely your own.  More experienced calligraphers will be encouraged to sit with less experienced to work on layout, learn to tear paper (textwove) and how to transfer an image to go with your text if you are uncomfortable drawing.  Your pieces will not be large nor should they be intimidating.  If you get stuck there will be people who can help you.  Don't worry about mistakes, we will be working to create a draft.  To add a little more interest there will be a challenge at the end.
 
-Bring whatever supplies you might want to experiment with on textwove.  If you have pan watercolors that travel easily bring them.  Otherwise bring a ruler and any medium you want: markers, oil pastels, colored pencils, graphite pencils, any medium to add color, a lettering tool of your choice and anything you need to apply them.  If you like collage, consider bringing some papers and glue.  Letters can be penned or drawn; there are no limits to your creativity.  If you have a very short quote about tea you might want to have that written down.  This will be fun!
-
-Georgie Knapp
+July - Drawn Letters\
+Letters can be drawn with many types of tools. We're going to explore some types of drawn letters using monoline tools. Bring pencils (mechanical or other), eraser, colored pencils (any kind), pens, etc. We'll have some practice paper and paper to make bookmarks.\
+This should be fun, as well as a preview of sorts for Barbara Closes' Textured Letters Workshop in October.\
+Also, remember to bring the tea cup piece you're working on after our June meeting for a chance to win the teacup mug!  Finished or not!\
+And if you did something with the glittery paper Lisa shared two months ago, bring it to show.  JUST DO IT!, remember?
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
