@@ -27,16 +27,29 @@ A few of the things we noted were:
 1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.\
 2. Colors can be used in an variety of ways. Backgrounds, decorative elements, and the lettering itself offer opportunities to add color.\
 3. Visual texture is created by the density of strokes, as is a sense of motion.\
-4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.\
-   With these ideas fresh in mind, Georgie Knapp will help us apply them to our own work. 
+4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.
 
-June - This month with the basic premise supplied we will encourage you to design your own little piece of art. \
-You will be given a theme, which you can also choose to ignore, of Alice in Wonderland’s Tea Party.  With some concrete suggestions we will cover the beginning and hopefully middle steps in the process of creating a piece without going down the “rabbit hole”.  Besides a piece of Arches textwove you will be given an idea of an image, some inspiration at what others have done with it and work to make something completely your own.  More experienced calligraphers will be encouraged to sit with less experienced to work on layout, learn to tear paper (textwove) and how to transfer an image to go with your text if you are uncomfortable drawing.  Your pieces will not be large nor should they be intimidating.  If you get stuck there will be people who can help you.  Don't worry about mistakes, we will be working to create a draft.  To add a little more interest there will be a challenge at the end.
+June - What’s keeping you from making art? \
+Georgie systematically addressed the barriers to our creativity. \
+For inspiration, she provided a handout of quotations about tea (and coffee, if you prefer). \
+For illustration, she provided an assortment of cup and mug images and encouraged us to adapt them to our work. \
+For a surface to work on, she and Lisa provided us with a supply of Arches Textwove paper. This is a preferred paper for many artists because it’s slightly translucent, making tracing easy. It also takes wet media well and dries flat. It’s ideal for paste paper and bookbinding. \
+Whether you’ve finished the work you began at the June meeting or not, bring it to the July meeting. This will be your entry into an informal contest with a tea-themed sculpture. Someone must have a picture of it. Trust me, it’s beautiful! 
 
 July - Drawn Letters\
-Letters can be drawn with many types of tools. We're going to explore some types of drawn letters using monoline tools. Bring pencils (mechanical or other), eraser, colored pencils (any kind), pens, etc. We'll have some practice paper and paper to make bookmarks.\
-This should be fun, as well as a preview of sorts for Barbara Closes' Textured Letters Workshop in October.\
-Also, remember to bring the tea cup piece you're working on after our June meeting for a chance to win the teacup mug!  Finished or not!\
-And if you did something with the glittery paper Lisa shared two months ago, bring it to show.  JUST DO IT!, remember?
+Ellen shared several informative handouts featuring an assortment of drawn letters. Drawn letters are constructed with a smaller instrument rather than written freely with a standard calligraphy nib. \
+To easily draw calligraphic strokes, two pencils can be held together with a rubber band or tape. Two leads can fit comfortably in a piece of plastic straw. These strokes will form the skeleton of the letter. You will use a monoline tool, such as a single pencil, to fill out the rest of the shape. \
+Drawn letters lend themselves to an assortment of coloring techniques. We experimented with our own tools, and shared ideas among ourselves. \
+Ellen provided a generous supply of papers for our lettering pleasure. Corners of envelopes make wonderful decorated bookmarks. Long strips are a classic choice. 
+
+ALSO: several artists brought along their coffee and tea pieces. Each artist received a slip to add their names to a drawing for one of three Alice in Wonderland / tea themed prizes. Bring either a finished piece or the beginnings of a second one to the August meeting for another chance!
+
+August - 1. August Program: Karen Barber and Rei Pizzaro will tell us about their experiences at the summer conference.\
+2. The revitalization committee would like your help with program planning. The document here
+
+ contains a list of the programs we’ve had for the last 12 months. Would you please tell us which three you liked the best. You can do this by printing out the file (landscape format), writing 1, 2, 3 to the left of your favorites, and bringing it to the August meeting. \
+Then, could you tell us please, what topics you would suggest for future meetings. Would you be able to present such a program (either yourself or with another guild member)? Would you like to “volunteer” someone else to present this topic? Here’s your chance to have meetings that are exactly what you want! Bring this to the August meeting, or reply to this email.
+
+
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
