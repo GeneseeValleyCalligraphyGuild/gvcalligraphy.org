@@ -24,9 +24,9 @@ April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 May - At our May meeting, we viewed slides from our collection of work done by instructors at past conferences. Slides! We discussed what made some of those pieces work effectively.\
 A few of the things we noted were:
 
-1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.\
-2. Colors can be used in an variety of ways. Backgrounds, decorative elements, and the lettering itself offer opportunities to add color.\
-3. Visual texture is created by the density of strokes, as is a sense of motion.\
+1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.
+2. Colors can be used in an variety of ways. Backgrounds, decorative elements, and the lettering itself offer opportunities to add color.
+3. Visual texture is created by the density of strokes, as is a sense of motion.
 4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.
 
 June - What’s keeping you from making art? \
@@ -44,12 +44,8 @@ Ellen provided a generous supply of papers for our lettering pleasure. Corners o
 
 ALSO: several artists brought along their coffee and tea pieces. Each artist received a slip to add their names to a drawing for one of three Alice in Wonderland / tea themed prizes. Bring either a finished piece or the beginnings of a second one to the August meeting for another chance!
 
-August - 1. August Program: Karen Barber and Rei Pizzaro will tell us about their experiences at the summer conference.\
-2. The revitalization committee would like your help with program planning. The document here
-
- contains a list of the programs we’ve had for the last 12 months. Would you please tell us which three you liked the best. You can do this by printing out the file (landscape format), writing 1, 2, 3 to the left of your favorites, and bringing it to the August meeting. \
+August - Program: Karen Barber and Rei Pizzaro will tell us about their experiences at the summer conference.\
+The revitalization committee would like your help with program planning. The document [here](img/ProgramEvaluationFormJuly2018toJune2019.pdf)  contains a list of the programs we’ve had for the last 12 months. Would you please tell us which three you liked the best. You can do this by printing out the file (landscape format), writing 1, 2, 3 to the left of your favorites, and bringing it to the August meeting. \
 Then, could you tell us please, what topics you would suggest for future meetings. Would you be able to present such a program (either yourself or with another guild member)? Would you like to “volunteer” someone else to present this topic? Here’s your chance to have meetings that are exactly what you want! Bring this to the August meeting, or reply to this email.
-
-
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
