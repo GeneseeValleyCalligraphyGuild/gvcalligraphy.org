@@ -49,9 +49,17 @@ August - Program: Karen Barber and Rei Pizzaro told us about their experiences a
 September - Blackletter\
 After a discussion about guild revitalization, Marian gave us a quick overview of Blackletter, with handouts and practice paper. We explored the two broad groups - the N family and the O family. Miniscules only; majuscules are an entirely different kettle of fish!
 
-October - New technology for demonstrating\
-After the initial planning portion of the meeting, those who participated in the guild’s recent lunchtime program at the recreation center are invited to share what they did with the rest of us. \
-The meeting will feature Marian Henry and her clever application of modern technology to the demonstration of a calligraphy hand while the scribe is seated comfortably at a table/desk.  You must come to see this and believe it! \
-But before this dessert, we must attend to the nutrition of our guild.  We don't all like broccoli and some of us love broccoli.  Our diet must be well balanced.  So the first half of our meeting will be focused on making some healthy choices to keep us strong and vibrant.
+October - Sharing and planning\
+After the initial planning portion of the meeting, those who participated in the guild’s recent lunchtime program at the recreation center shared what they did with the rest of us. 
+
+
+
+\
+y\
+First: Georgie asked those who were at the workshop with Barbara Close bring something of their work to share. Several wonderful accordion books were shown.\
+Second: Marian  demonstrated a new projector system that will allow easier demonstrations at meetings.\
+Third: Rei presented a program on Christmas cards. We spent time making cards and sharing our work.
+
+
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
