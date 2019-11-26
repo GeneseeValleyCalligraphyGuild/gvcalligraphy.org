@@ -9,28 +9,13 @@ path: /
 
 The Genesee Valley Calligraphy Guild is a learning guild with members at all levels of experience. By sharing a love of traditional and contemporary handwritten letters, we build friendships and a greater confidence in our art.
 
+The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
+
 **Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 205. **
 
-Workshop coming in October! [Barbara Close will visit us with **Textured Letters**](../img/barbaraclose191019-20.pdf). 
+One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
-October 19, Saturday (9 AM to 4 PM) \
-October 20, Sunday (10 AM to 4 PM) \
-Please arrive at least 15 mintues early 	
-
-Perinton Recreation Center Room #212 \
-1350 Turk Hill Road \
-Fairport NY  14450 
-
-Members $125.00 \
-Non-members $150.00 \
-Note:  Dues are $20 see Membership page for membership information\
-Additional Materials Fee (minimal)
-
-Supply List to be Provided to participants 	
-
-Participation is Limited, member registration starts July 1st.
-
-One-day or weekend workshops are held two or more times a year. Recent instructors have included Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
+Next August we will welcome Gemma Black, on her final teaching tour of the US! More information will follow as it is available.
 
 Browse our site for more information about the guild.
 
