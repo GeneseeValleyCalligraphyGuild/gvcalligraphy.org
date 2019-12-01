@@ -21,7 +21,7 @@ March - [Alphabet "Soup"](../march-meeting)
 
 April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
-May - At our May meeting, we viewed slides from our collection of work done by instructors at past conferences. Slides! We discussed what made some of those pieces work effectively.\
+May -We viewed slides from our collection of work done by instructors at past conferences. We discussed what made some of those pieces work effectively.\
 A few of the things we noted were:
 
 1. Calligraphy doesn’t need to be on paper. One stunning piece was carved from wood.
@@ -30,11 +30,9 @@ A few of the things we noted were:
 4. Some calligraphy is not intended to be read, using calligraphic strokes as painterly elements.
 
 June - What’s keeping you from making art? \
-Georgie systematically addressed the barriers to our creativity. \
-For inspiration, she provided a handout of quotations about tea\
+Georgie systematically addressed the barriers to our creativity. For inspiration, she provided a handout of quotations about tea\
 plus an assortment of cup and mug images and encouraged us to adapt them to our work. \
-She and Lisa provided us with a supply of Arches Textwove paper. This is a preferred paper for many artists because it’s slightly translucent, making tracing easy. It also takes wet media well and dries flat. It’s ideal for paste paper and bookbinding. \
-Bring your work to the July meeting. This will be your entry into an informal contest with a tea-themed sculpture. Someone must have a picture of it. Trust me, it’s beautiful! 
+She and Lisa provided us with a supply of Arches Textwove paper. This is a preferred paper for many artists because it’s slightly translucent, making tracing easy. It also takes wet media well and dries flat. It’s ideal for paste paper and bookbinding. 
 
 July - Drawn Letters\
 Ellen shared several informative handouts featuring an assortment of drawn letters. Drawn letters are constructed with a smaller instrument rather than written freely with a standard calligraphy nib. \
@@ -52,14 +50,16 @@ After a discussion about guild revitalization, Marian gave us a quick overview o
 October - Sharing and planning\
 After the initial planning portion of the meeting, those who participated in the guild’s recent lunchtime program at the recreation center shared what they did with the rest of us. 
 
-
-
-\
-y\
+November\
 First: Georgie asked those who were at the workshop with Barbara Close bring something of their work to share. Several wonderful accordion books were shown.\
 Second: Marian  demonstrated a new projector system that will allow easier demonstrations at meetings.\
 Third: Rei presented a program on Christmas cards. We spent time making cards and sharing our work.
 
-
+December\
+Come to the December guild meeting for the party of the year!\
+Back by popular vote on Wednesday, December 4, 2019 is an evening of refreshments and socializing with a little bit of calligraphic fun thrown into the celebratory mix.\
+1.   Refreshments.  Bring a small offering if you are so inclined. May include chocolate but probably not wine.  Please be sure to wear your name tag.\
+2.   The second activity of the evening involves a fun analysis of commercial holiday or greeting cards.  To take part in this, please bring a card, the design of which you think either “works” or “doesn’t work”.  Lisa commented on this characteristic when she presented the calligraphy slide show in June.  It is a subjective attribute; a card that appeals to one person may not hit the spot for someone else.  Lisa will have a supply of extra commercial card fronts if someone forgets theirs.\
+3.   Third. a Yankee Gift Swap.  To participate, bring in something related to calligraphy that is either pre-owned in good condition, or brand-new. (If purchasing, please spend no more than 10 dollars.) Make sure your item is wrapped.  We will have a repeat of David’s Yankee swap for all those who bring something in.  In other words, bring one, get one.
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
