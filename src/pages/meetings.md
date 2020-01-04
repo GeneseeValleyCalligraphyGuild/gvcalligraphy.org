@@ -19,22 +19,22 @@ We are beginning our study this year with Roman (capital) letters, based on the 
 
 We are also hosting Australian calligrapher Gemma Black in August; she is on her final international teaching tour. We have chosen a beautiful watercolor cutback technique that she teaches with Roman letterforms. More information will be available soon.
 
-**Our Schedule for the first fhalf of the year follows (subject to change):**
+**Our Schedule for the first half of the year follows (subject to change):**
 
-**January 8 – **brief introduction; elements of design with Rei.\
+**January 8** - brief introduction; elements of design with Rei.\
 Please look through some magazines, Christmas Cards, brochures etc. See what you think is a good design and what "needs work". Bring scissors, paper and or a quote you like. We will work on the elements of design and work on finishing a small project. Bring your favorite writing tools and an OPEN mind. You may want to try your hand at ROMANS,
 
 **February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
 
-**April 1 – **pressure-and-release monoline Roman letters in graphite and colored pencil, led by Lisa
+**April 1 –** pressure-and-release monoline Roman letters in graphite and colored pencil, led by Lisa
 
-**May 6 – **broad-edge pen letters, with “dip” pens and ink or paint – we will also cover “seasoning” and loading a nib for those new to dip pens – presenter TBA
+**May 6 –** broad-edge pen letters, with “dip” pens and ink or paint – we will also cover “seasoning” and loading a nib for those new to dip pens – presenter TBA
 
 We also plan to host a 1-day workshop with Annie Barnhardt in late May on built-up colored pencil Roman letters on dark paper
 
 **June 3 –** large letters, using whole arm movements, and then cutting those letters to use in a projects, led by Carolyn
 
-**July 1 – **Design OR a field trip to the RIT Cary library, which has a diorama and tracing of the letters of the Trajan column, as well as work by contemporary calligraphers who spent time at RIT.
+**July 1 –** Design OR a field trip to the RIT Cary library, which has a diorama and tracing of the letters of the Trajan column, as well as work by contemporary calligraphers who spent time at RIT.
 
 We also have several Play Days scheduled on Saturdays (January 18, April 18 or 25, July 25) before the workshop where we can explore other tools and variations.
 
