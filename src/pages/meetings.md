@@ -21,7 +21,8 @@ We are also hosting Australian calligrapher Gemma Black in August; she is on her
 
 **Our Schedule for the first fhalf of the year follows (subject to change):**
 
-**January 8 – **brief introduction; elements of design with Rei
+**January 8 – **brief introduction; elements of design with Rei.\
+Please look through some magazines, Christmas Cards, brochures etc. See what you think is a good design and what "needs work". Bring scissors, paper and or a quote you like. We will work on the elements of design and work on finishing a small project. Bring your favorite writing tools and an OPEN mind. You may want to try your hand at ROMANS,
 
 **February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
 
