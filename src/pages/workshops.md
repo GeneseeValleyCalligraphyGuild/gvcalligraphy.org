@@ -5,24 +5,15 @@ path: /workshops
 ---
 **Coming Workshops**
 
-[Barbara Close will visit us with **Textured Letters**](../img/barbaraclose191019-20.pdf). 
+[G](../img/barbaraclose191019-20.pdf)emma Black will be here in August to present a wonderful workshop featuring her watercolor cut-back technique. More information will be available soon.
 
-October 19, Saturday (9 AM to 4 PM) \
-October 20, Sunday (10 AM to 4 PM) \
-Please arrive at least 15 mintues early 	
+Auagust 22-24, 2020
 
 Perinton Recreation Center Room #212 \
 1350 Turk Hill Road \
 Fairport NY  14450 	
 
-Members $125.00 \
-Non-members $150.00 \
-Note:  Dues are $20 see Membership page for membership information\
-Additional Materials Fee (minimal)
-
-Supply List to be Provided to participants 	
-
-Participation is Limited, member registration starts July 1st.
+Participation is Limited, member registration has not begun yet.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
@@ -35,6 +26,7 @@ Past instructors have included:
 Annie Barnhardt (Gail Vick Barnhardt) - Design; Pencil Romans, Italic refresher, Foundational, Neuland, Pointed Brush Lettering, year-long class\
 Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
+\
 Nancy Culmone - Decorated Letter Quest\
 Sharon Hanse - Dimensional Calligraphy, using cut paper techniques, cut-and-fold, embossing\
 Randall Hasson - The Shape and Texture of Calligraphy\
