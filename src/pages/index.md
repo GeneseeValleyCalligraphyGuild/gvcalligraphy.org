@@ -23,11 +23,13 @@ Browse our site for more information about the guild.
 
 Give the gift of a guild membership or workshop! Instructions are on the order form. A gift certificate in the amount you send will be mailed to you (or to the recipient) in your self-addressed stamped envelope.
 
+We're on [Facebook](https://www.facebook.com/Genesee-Valley-Calligraphy-Guild-165364643525299/)!
+
 **Speedball Textbook**
 
-The “Centennial Edition” of the Speedball Textbook features an expanded history section showcasing additional pages from older editions as well as all new artwork in the “Gallery” and “Logo & Design” sections, and much more!
+The “Centennial Edition” of the Speedball Textbook features an expanded history section showcasing additional pages from older editions as well as all new artwork!
 
-In conjunction with the new book, they have a website (http://www.speedballart.com) which has Material Safety Data Sheets (MSDS) about their products, and some downloads under the Media tab for screen printing, lettering, drawing.
+In conjunction with the book, they have a website (http://www.speedballart.com) which has Material Safety Data Sheets (MSDS) about their products, and some downloads under the Media tab for screen printing, lettering, drawing.
 
 The Speedball Textbook book has always been a reflection of the lettering of its time. This special Centennial Edition is a record of lettering today and an invaluable resource for students of all ages and levels.
 
