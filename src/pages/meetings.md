@@ -3,7 +3,9 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-**Meeting Location Change: Our meetings will be held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
+## **Because of the Corona virus our April meeting, at least, is canceled. We will re-asses the situation on a month by month basis and determine the best time for our Romans classes.**
+
+**Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
 
 Most meetings will be in room 204A.
 
@@ -26,7 +28,7 @@ Please look through some magazines, Christmas Cards, brochures etc. See what you
 
 **February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
 
-**April 1 –** pressure-and-release monoline Roman letters in graphite and colored pencil, led by Lisa
+**April 1 –** broad-edge pen letters, led by Lorrie Frear - CANCELED
 
 **May 6 –** broad-edge pen letters, with “dip” pens and ink or paint – we will also cover “seasoning” and loading a nib for those new to dip pens – presenter TBA
 
