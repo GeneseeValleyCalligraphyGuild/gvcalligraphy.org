@@ -3,7 +3,7 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-## **Because of the Corona virus our April meeting, at least, is canceled. We will re-asses the situation on a month by month basis and determine the best time for our Romans classes.**
+## **Because of the Corona virus our April meeting, at least, is canceled. We will re-assess the situation on a month by month basis and determine the best time for our Romans classes.**
 
 **Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
 
