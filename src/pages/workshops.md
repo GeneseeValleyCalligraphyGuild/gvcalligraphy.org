@@ -5,15 +5,7 @@ path: /workshops
 ---
 **Coming Workshops**
 
-[G](../img/barbaraclose191019-20.pdf)emma Black will be here in August to present a wonderful workshop featuring her watercolor cut-back technique. More information will be available soon.
-
-Auagust 22-24, 2020
-
-Perinton Recreation Center Room #212 \
-1350 Turk Hill Road \
-Fairport NY  14450 	
-
-Participation is Limited, member registration has not begun yet.
+[T](../img/barbaraclose191019-20.pdf)he workshop we had scheduled for August had to be canceled by the instructor because of travel restrictions. We are working to plan other workshop opportunities.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
