@@ -3,7 +3,7 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-## **Because of the Corona virus our April meeting, at least, is canceled. We will re-assess the situation on a month by month basis and determine the best time for our Romans classes.**
+## **Because of the Corona virus our meetings are canceled until further notice. We will re-assess the situation on a month by month basis and determine the best time for our Romans classes.**
 
 **Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
 
@@ -19,8 +19,6 @@ As part of our mission to learn and teach calligraphy, we are going to concentra
 
 We are beginning our study this year with Roman (capital) letters, based on the Trajan column in Rome. Romans are the “parent” of all modern letters (the I and O dictate the formation of every other letter in a style). 
 
-We are also hosting Australian calligrapher Gemma Black in August; she is on her final international teaching tour. We have chosen a beautiful watercolor cutback technique that she teaches with Roman letterforms. More information will be available soon.
-
 **Our Schedule for the first half of the year follows (subject to change):**
 
 **January 8** - brief introduction; elements of design with Rei.\
@@ -30,15 +28,15 @@ Please look through some magazines, Christmas Cards, brochures etc. See what you
 
 **April 1 –** broad-edge pen letters, led by Lorrie Frear - CANCELED
 
-**May 6 –** broad-edge pen letters, with “dip” pens and ink or paint – we will also cover “seasoning” and loading a nib for those new to dip pens – presenter TBA
+**May 6 –** CANCELED
 
 We also plan to host a 1-day workshop with Annie Barnhardt in late May on built-up colored pencil Roman letters on dark paper
 
-**June 3 –** large letters, using whole arm movements, and then cutting those letters to use in a projects, led by Carolyn
+**June 3 –** TBA
 
 **July 1 –** Design OR a field trip to the RIT Cary library, which has a diorama and tracing of the letters of the Trajan column, as well as work by contemporary calligraphers who spent time at RIT.
 
-We also have several Play Days scheduled on Saturdays (January 18, April 18 or 25, July 25) before the workshop where we can explore other tools and variations.
+We also have several Play Days scheduled on Saturdays (January 18, July 25) where we can explore other tools and variations.
 
 \----------
 
