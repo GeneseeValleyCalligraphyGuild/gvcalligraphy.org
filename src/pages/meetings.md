@@ -21,16 +21,13 @@ We are beginning our study this year with Roman (capital) letters, based on the 
 
 **Our Schedule for the first half of the year follows (subject to change):**
 
-**January 8** - brief introduction; elements of design with Rei.\
-Please look through some magazines, Christmas Cards, brochures etc. See what you think is a good design and what "needs work". Bring scissors, paper and or a quote you like. We will work on the elements of design and work on finishing a small project. Bring your favorite writing tools and an OPEN mind. You may want to try your hand at ROMANS,
+**January 8** - brief introduction; elements of design with Rei.
 
 **February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
 
-**April 1 –** broad-edge pen letters, led by Lorrie Frear - CANCELED
+**April 1 –** CANCELED
 
 **May 6 –** CANCELED
-
-We also plan to host a 1-day workshop with Annie Barnhardt in late May on built-up colored pencil Roman letters on dark paper
 
 **June 3 –** Zoom meeting
 
@@ -54,30 +51,19 @@ April - [Visiting WWII Vet and artist Owen Hughes](../april-meeting)
 
 May -We viewed slides from our collection of work done by instructors at past conferences. We discussed what made some of those pieces work effectively.
 
-June - What’s keeping you from making art? \
-Georgie systematically addressed the barriers to our creativity. For inspiration, she provided a handout of quotations about tea\
-plus an assortment of cup and mug images and encouraged us to adapt them to our work. \
-She and Lisa provided us with a supply of Arches Textwove paper. 
+June - What’s keeping you from making art? 
 
-July - Drawn Letters\
-Ellen shared several handouts featuring an assortment of drawn letters. Drawn letters are constructed with a smaller instrument rather than written with a standard calligraphy nib. \
-To easily draw calligraphic strokes, two pencils can be held together with a rubber band or tape. Two leads can fit comfortably in a piece of plastic straw. These strokes will form the skeleton of the letter. You will use a monoline tool, such as a single pencil, to fill out the rest of the shape. \
-Drawn letters lend themselves to an assortment of coloring techniques. We experimented with tools, and shared ideas among ourselves. 
+July - Drawn Letters
 
 August - Program: Karen Barber and Rei Pizzaro told us about their experiences at the summer conference.
 
-September - Blackletter\
-After a discussion about guild revitalization, Marian gave us a quick overview of Blackletter, with handouts and practice paper. We explored the two broad groups - the N family and the O family. Miniscules only; majuscules are an entirely different kettle of fish!
+September - Blackletter
 
-October - Sharing and planning\
-After the initial planning portion of the meeting, those who participated in the guild’s recent lunchtime program at the recreation center shared what they did with the rest of us. 
+October - Sharing and planning 
 
-November\
-First: those who were at the workshop with Barbara Close brought something of their work to share. Several wonderful accordion books were shown.\
-Second: Marian  demonstrated a new projector system that will allow easier demonstrations at meetings.\
-Third: Rei presented a program on Christmas cards. We spent time making cards and sharing our work.
+November
 
 December\
-We gathered for an evening of refreshments and socializing with a little bit of calligraphic fun thrown into the celebratory mix. We also analyzed commercial holiday or greeting cards.  Finally we had a Yankee Gift Swap. 
+We gathered for an evening of refreshments and socializing with a little bit of calligraphic fun thrown into the celebratory mix. We also analyzed commercial holiday or greeting cards.  
 
 ![Artist: Marian Henry](/img/marianh_resistentialism.jpg)
