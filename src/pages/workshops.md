@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Coming Workshops**
 
-[T](../img/barbaraclose191019-20.pdf)he workshop we had scheduled for August had to be canceled by the instructor because of travel restrictions. We are working to plan other workshop opportunities.
+Due to the Coronavirus, in-person workshops are on hold. We are working on other teaching and learning opportunities.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
