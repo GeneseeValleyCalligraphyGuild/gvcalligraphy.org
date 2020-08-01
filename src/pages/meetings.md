@@ -3,7 +3,7 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-## **Because of the Corona virus our meetings are canceled until further notice. We will re-assess the situation on a month by month basis and determine the best time for our Romans classes.**
+**We are meeting again in the Perinton Community Center; registration is required to attend in person. If you're interested in attending the meeting, please send an email to gvcalligraphy@gmail.com at least 2 weeks before the meeting.**
 
 **Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
 
@@ -32,9 +32,11 @@ Please look through some magazines, Christmas Cards, brochures etc. See what you
 
 We also plan to host a 1-day workshop with Annie Barnhardt in late May on built-up colored pencil Roman letters on dark paper
 
-**June 3 –** TBA
+**June 3 –** Zoom meeting
 
-**July 1 –** Design OR a field trip to the RIT Cary library, which has a diorama and tracing of the letters of the Trajan column, as well as work by contemporary calligraphers who spent time at RIT.
+**July 1 –** Zoom meeting
+
+**August 5 **- combination Zoom and in-person, sharing of From My Heart project pieces. Following the program, there will be a special announcement of our programs for the next six months from Toi and Lisa.  Exciting things are happening!
 
 We also have several Play Days scheduled on Saturdays (January 18, July 25) where we can explore other tools and variations.
 
