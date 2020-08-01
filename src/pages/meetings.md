@@ -33,8 +33,6 @@ We are beginning our study this year with Roman (capital) letters, based on the 
 
 **August 5 **- combination Zoom and in-person, sharing of From My Heart project pieces. Following the program, there will be a special announcement of our programs for the next six months from Toi and Lisa.  Exciting things are happening!
 
-We also have several Play Days scheduled on Saturdays (January 18, July 25) where we can explore other tools and variations.
-
 \----------
 
 **2019 Programs**
