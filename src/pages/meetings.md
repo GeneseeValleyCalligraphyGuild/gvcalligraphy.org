@@ -19,8 +19,6 @@ As part of our mission to learn and teach calligraphy, we are going to concentra
 
 We are beginning our study this year with Roman (capital) letters, based on the Trajan column in Rome. Romans are the “parent” of all modern letters (the I and O dictate the formation of every other letter in a style). 
 
-**Our Schedule for the first half of the year follows (subject to change):**
-
 **January 8** - brief introduction; elements of design with Rei.
 
 **February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
