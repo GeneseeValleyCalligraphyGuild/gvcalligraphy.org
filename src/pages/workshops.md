@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Coming Workshops**
 
-Due to the Coronavirus, in-person workshops are on hold. We are working on other teaching and learning opportunities.
+Due to the Coronavirus, in-person workshops are on hold. We are working on other teaching and learning opportunities. See [John Neal's Website](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists) for a list of online classes.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
