@@ -17,6 +17,8 @@ The guild was founded in April, 1983 in Rochester, NY. We practice beautiful han
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
+In-person workshops are on hold for the time being; see [John Neal's Website](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists) for a list of online classes.
+
 Browse our site for more information about the guild.
 
 [Guild Gift Certificate Order Form ](/img/gvcg-gift-certificate.pdf)
