@@ -5,7 +5,7 @@ path: /links
 ---
 **Store Web Sites**
 
-* [John Neal, Bookseller](https://www.johnnealbooks.com/jnb/)
+* [John Neal, Bookseller](https://www.johnnealbooks.com/jnb/) - [Class and Instructor List](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists)
 * [Paper & Ink Arts](https://www.paperinkarts.com/)
 * [Amazon.com](https://www.amazon.com/)
 * [Barnes & Noble](https://www.barnesandnoble.com/)
