@@ -17,21 +17,13 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 As part of our mission to learn and teach calligraphy, we are going to concentrate on specific letter forms for several months to a year. After learning the basics, we will use the letters in small, fun projects and then study variations on the letters.
 
-We are beginning our study this year with Roman (capital) letters, based on the Trajan column in Rome. Romans are the “parent” of all modern letters (the I and O dictate the formation of every other letter in a style). 
+We began our study this year with Roman (capital) letters, based on the Trajan column in Rome. Romans are the “parent” of all modern letters (the I and O dictate the formation of every other letter in a style). 
 
-**January 8** - brief introduction; elements of design with Rei.
+After the first 3 meetings, followed by a break, we had online Zoom meetings for 2 months. Beginning in August, our meetings include both Zoom and in-person involvement.
 
-**February 5 and March 4 –** monoline (pencil) Roman letters, with a simple color project near the end of the meeting, led by Georgie
+**August 5** - combination Zoom and in-person, sharing of From My Heart project pieces. 
 
-**April 1 –** CANCELED
-
-**May 6 –** CANCELED
-
-**June 3 –** Zoom meeting
-
-**July 1 –** Zoom meeting
-
-**August 5** - combination Zoom and in-person, sharing of From My Heart project pieces. Following the program, there will be a special announcement of our programs for the next six months from Toi and Lisa.  Exciting things are happening!
+The next six months will involve making and playing with lettering in Stash Fan Books.
 
 \----------
 
@@ -51,7 +43,7 @@ June - What’s keeping you from making art?
 
 July - Drawn Letters
 
-August - Program: Karen Barber and Rei Pizzaro told us about their experiences at the summer conference.
+August - Program: Karen and Rei told us about their experiences at the summer conference.
 
 September - Blackletter
 
