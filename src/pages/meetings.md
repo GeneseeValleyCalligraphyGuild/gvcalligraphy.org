@@ -21,7 +21,7 @@ We began our study this year with Roman (capital) letters, based on the Trajan c
 
 After the first 3 meetings, followed by a break, we had online Zoom meetings for 2 months. Beginning in August, our meetings include both Zoom and in-person involvement.
 
-**August 5** - combination Zoom and in-person, sharing of From My Heart project pieces. 
+**August 5** - combination Zoom and in-person, sharing of From My Heart project pieces, plus announcements about plans for the next 6 months.
 
 The next six months will involve making and playing with lettering in Stash Fan Books.
 
