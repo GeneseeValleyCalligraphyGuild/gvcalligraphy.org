@@ -3,9 +3,9 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-**We are meeting again in the Perinton Community Center; registration is required to attend in person. If you're interested in attending the meeting, please send an email to gvcalligraphy@gmail.com at least 2 weeks before the meeting.**
+**We are now meeting exclusively online. If you're interested in joining us for a meeting, please email gvcalligraphy@gmail.com at least a week before the meeting. In-person meetings may begin again next year.**
 
-**Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here: **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
+Our meetings are held at the Perinton Community Center at 1350 Turk Hill Road. Find directions here:** **[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
 
 Most meetings will be in room 204A.
 
@@ -24,6 +24,10 @@ After the first 3 meetings, followed by a break, we had online Zoom meetings for
 **August 5** - combination Zoom and in-person, sharing of From My Heart project pieces, plus announcements about plans for the next 6 months.
 
 The next six months will involve making and playing with lettering in Stash Fan Books.
+
+**October 7 ** - using color in calligraphy.\
+October’s focus will be color so have some color pencils, watercolor, etc. ready for use. Pencil, eraser, nice paper for dry and wet mediums. You may want to apply color to the letters you started last month.  Or start with new letters this month.\
+\*\**6:45 pm, orientation to new meeting structure,  7:00 October’s guild meeting
 
 \----------
 
