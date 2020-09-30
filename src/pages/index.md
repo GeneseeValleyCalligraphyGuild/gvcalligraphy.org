@@ -11,9 +11,9 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
-**We are meeting again in the Perinton Community Center; pre-registration is required for in-person attendance. If you're interested in attending a meeting please send an email to thgvcalligraphy@gmail.com at least 2 weeks before the meeting.**
+**We are meeting online only through the end of 2020. If you're interested in joining us, please send an email to gvcalligraphy@gmai.com.**
 
-**Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 204A.**
+Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 204A.
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
