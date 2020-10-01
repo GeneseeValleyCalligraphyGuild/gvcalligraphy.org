@@ -29,7 +29,9 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _The First Writing Book_ (Arrighi’s Operina), Benson, John J., Yale University Press
 * _Wind Songs_, Botts, Timothy, Tyndale House
 * _Door Posts_, Botts, Timothy, Tyndale House
+* _More Than Fine Writing: Irene Wellington, Calligrapher (1904-84)_, Child, Heather et. al., The Overlook Press
 * _How to Become a Professional Calligrapher,_ David, Stuart, Taplinger
+* _Medieval Calligraphy: Its History and Technique_, Drogin,Marc, Allanheld, Osmun & Co.
 * _Complete Studio Tips for artists and graphic designers_, Gray, Bill, W. W. Norton & Co.
 * _The Calligrapher's Project Book_, Haines, Susanne, Harper Collins
 * _Creative Lettering_, Harvey, Michael
@@ -42,6 +44,8 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Creative Calligraphy_, Lynskey, Marie, Baker, Land and Unwin
 * _Learning Copperplate Spencerian Script,_ Menser, Larry, Hunt Speedball
 * _Choirs of Angels,_ Metropolitan Museum of Art
+* _The Illiminated Alphabet_, Noad, Timothy & Seligman, Patricia, Running Press Quarto
+* _Paint Your Own Illuminated Letters_, Oliver, Stephan, Chartwell Books
 * _Brush Lettering_, Reaves, Marilyn and Schulte, Eliza, Design Books
 * _Borders for Calligraphy,_ Shepherd, Margaret, Perigee
 * _Calligraphy Alphabets Made Easy_, Shepherd, Margaret, Perigree
