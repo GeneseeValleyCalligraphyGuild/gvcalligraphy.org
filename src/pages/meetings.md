@@ -17,7 +17,14 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 As part of our mission to learn and teach calligraphy, we are going to concentrate on specific letter forms for several months to a year. After learning the basics, we will use the letters in small, fun projects and then study variations on the letters.
 
-January - the monthly meeting is being replaced with a Play Day on January 23. More information to follow.
+January - the monthly meeting was replaced with a Play Day on January 23..
+
+February - Big and small letters
+
+March - Turning work while designing, reviewing swatch books.\
+  Draw at least four 1.5 inch squares on a piece of paper; \
+   have pencil, monoline marker, broad edge marker (no bigger than 3.5 mm), ruler, \
+     and optional colored pencils ready to use.
 
 \----------
 
