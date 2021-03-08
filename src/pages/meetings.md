@@ -26,6 +26,8 @@ March - Turning work while designing, reviewing swatch books.\
    have pencil, monoline marker, broad edge marker (no bigger than 3.5 mm), ruler, \
      and optional colored pencils ready to use.
 
+April - Using Watercolor and gouache for letters and backgrounds.
+
 \----------
 
 **Some Previous Programs**
