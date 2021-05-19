@@ -13,11 +13,15 @@ The guild was founded in April, 1983 in Rochester, NY. We practice beautiful han
 
 **We are meeting online only until further notice. If you're interested in joining us, please send an email to gvcalligraphy@gmail.com.**
 
-Our Meetings are held at the Perinton Community Center at 1350Turk Hill Road, most months in room 204A.
+Our Meetings will be held at the Perinton Community Center at 1350Turk Hill Road, most months in room 204A, once in-person meetings resume.
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
 In-person workshops are on hold for the time being; see [John Neal's Website](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists) for a list of online classes.
+
+We are a sponsor for the 2021 Legacies Conference - we sent them nearly 400 Crane artist trading cards to put in the grab bags!
+
+![](/img/legacies_sponsorlogo.jpg)
 
 Browse our site for more information about the guild.
 
