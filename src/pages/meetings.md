@@ -17,16 +17,14 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 As part of our mission to learn and teach calligraphy, we are going to concentrate on specific letter forms for several months to a year. After learning the basics, we will use the letters in small, fun projects and then study variations on the letters.
 
-January - the monthly meeting was replaced with a Play Day on January 23..
+**Sept 1** Demonstration of Weaver Writing. Toi will do the lowercase letters using graphite pencil.  
 
-February - Big and small letters
+**Oct. 6 **Creative Ways to USE your Paste Paper.  3 Members show ways they've USED their Paste Paper (envelopes, collage, etc). Get inspired to use scraps of old things in your studio in new ways. 
 
-March - Turning work while designing, reviewing swatch books.\
-  Draw at least four 1.5 inch squares on a piece of paper; \
-   have pencil, monoline marker, broad edge marker (no bigger than 3.5 mm), ruler, \
-     and optional colored pencils ready to use.
+**Nov. 3 ** THANKS for GIVING!  Demonstration of layouts for Thanksgiving Cards - such as cards for Veterans (Nov. 11th Veteran's Day).\
+Thank you cards to Health Care workers, First Responders, etc.  Thanksgiving will bring opportunities to use your words! 
 
-April - Using Watercolor and gouache for letters and backgrounds.
+**Dec. 1** Holiday Card Exchange and a Demonstration of a pop-up card. Those who would like to MAKE a Holiday Card may "opt in" (in November) they'll get another guild member's name and address and those two friends will mail their cards.  Pictures of their cards would be shared at our Meeting (also on our guild photo page).
 
 \----------
 
