@@ -15,7 +15,7 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **2022 Programs**
 
-**April **Mystery Marks: what tool is that done with? Make or find an unusual item to write with and we’ll try to figure out your secret. Then tell us how you chose your item and whether it worked well or not. 
+**April** Mystery Marks: what tool is that done with? Make or find an unusual item to write with and we’ll try to figure out your secret. Then tell us how you chose your item and whether it worked well or not. 
 
 \----------
 
