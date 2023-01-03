@@ -11,9 +11,17 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
-**We are meeting online only until further notice. If you're interested in joining us, please send an email to gvcalligraphy@gmail.com.**
+**Beginning February 1, 2023 we will be meeting in the Community Room at the Barnes and Noble store in Pittsford Plaza. We plan to make these meetings hybrid to enable those who cannot be there in person to participate.**
 
-Our Meetings will be held at the Perinton Community Center at 1350Turk Hill Road, most months in room 204A, once in-person meetings resume.
+We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
+
+On January 14, we will have Play Day from 11 AM - 1 PM at the Perinton Community Center at 1350 Turk Hill Road. Find directions here:\*\* \*\*[Map](https://www.google.com/maps/place/Perinton+Community+Center/@43.0829469,-77.4327027,17z/data=!3m1!4b1!4m5!3m4!1s0x89d133246f759619:0xe273455bc24c0530!8m2!3d43.082943!4d-77.430514)
+
+- - -
+
+**This year is our 40th Anniversary and we are planning many activities to celebrate.**
+
+Second Saturdays at the Perinton Community Center, Field trips to the RIT Cary Library and other locations are just a few of our activities. Stay in touch!
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
