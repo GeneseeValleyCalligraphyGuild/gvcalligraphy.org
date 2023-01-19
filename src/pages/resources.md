@@ -24,7 +24,6 @@ Hobby Lobby in Webster, Henrietta
 
 **Calligraphy Classes in the Rochester Area:**
 
-* Are School District Community Education Departments; check their websites
 * OASIS (Seniors Programs for those 50 years of age and older)\
   435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
 * Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton\
