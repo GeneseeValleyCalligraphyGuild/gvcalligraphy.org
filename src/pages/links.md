@@ -5,7 +5,7 @@ path: /links
 ---
 **Store Web Sites**
 
-* [John Neal, Bookseller](https://www.johnnealbooks.com/jnb/) - [Class and Instructor List](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists)
+* [John Neal, Bookseller - Class and Instructor List](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists)
 * [Paper & Ink Arts](https://www.paperinkarts.com/)
 * [Amazon.com](https://www.amazon.com/)
 * [Barnes & Noble](https://www.barnesandnoble.com/)
@@ -15,9 +15,7 @@ path: /links
 
 * [Reggie Ezell](http://www.reggieezell.com/)
 * [Bruce McEvoy's Watercolor Guide](http://www.handprint.com/HP/WCL/water.html)
-* [Medieval Writing](http://medievalwriting.50megs.com/writing.htm)
 * [Enhancing calligraphy with the computer - Ray Ritchie](http://www.rritchie.com/pages/step1.html)
-* [Scanning Large Artwork](http://www.wetcanvas.com/ArtSchool/StudioTips/ScanBigImages/)
 * [Scanning Tips](https://www.scantips.com/)
 * [Permanence Ratings for Digital Printing Devices](http://www.wilhelm-research.com/)
 * [PhotoShop Tutorials](http://www.myjanee.com/tutorials.htm)
@@ -31,40 +29,27 @@ path: /links
 
 [Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
 
-[Templates, Instructions, Ideas - Southworth Paper](http://www.southworth.com/specialty/templates-specialty/)
-
 [A Guide to Calligraphy for Weddings, Invitations and More](https://www.beau-coup.com/articles/guide-to-calligraphy-for-weddings-invitations-more.htm)
 
 **Online Tools**
 
-* [Gridlines](https://www.scribblers.co.uk/guideline-generator/)
 * [Gridlines - Margaret Shepherd](http://www.margaretshepherd.com/worldcalligraphy_print.html)
 * [Grid / slant lines](http://www.anomaly.org/debbie/calligraphy/guidelines.html)
 * [Generate PDFs of grid / slant lines; lots of options](http://www.allunderone.org/calligraphy2/calligraphy.php)
 * [line generator](http://www.allunderone.org/calligraphy2/calligraphy.php)
 * [Ductus](http://ductus.josselincuette.com/) - line generator
-* [Scribblers Guideline Generator](https://www.scribblers.co.uk/guideline-generator/)
-
-[How to Paint Backwards](http://www.watercolor-online.com/Articles/Backwards/backwards.phtml)
 
 **A few Calligraphers and Calligraphy Groups**
 
-* [Cyberscribes](https://groups.yahoo.com/neo/groups/cyberscribes/info) - an e-mail list of over 1,000 calligraphers and lettering artists from around the world 
+* [Cyberscribes](https://groups.io/) - an e-mail list of over 1,000 calligraphers and lettering artists from around the world - search for Cyberscribes
 * [IAMPETH ](https://www.iampeth.com/)- The International Association of Master Penmen, Engrossers and Teachers of Handwriting; contains scans of many out-of-print books and lessons in pointed-pen lettering
-* [LetterSpace Nexus](http://letterspace.com/LETTERSPACE_NEXUS/) - a list of links, related to lettering and type design
-* [Roann Mathias](http://roanndesigns.com/)
-* [Annie Cicale](http://www.cicaleletteringdesign.com/)
-* [Cari Ferraro](http://proseandletters.com/index.html)
-* [Mike Kecseg](http://www.pengraphicsstudio.com/)
-* [Jane Parillo](https://www.janeparilloscribe.com/)
+* [Cari Ferraro](https://cariferraro.com/)
 * [Ray Ritchie](http://www.rritchie.com/)
 * [Ziller of Kansas City](https://zillers.com/learning/) - Rich & Vivian Mungall
-* [Rory Kotin](http://www.scribeinkcalligraphy.com/About) - NYC calligrapher - samples and price chart
 * [Guilds, Conferences and Museums](http://calligrafile.com/guilds-conferences-museums/) - list of guilds conferences, workshops, museums around the world
 
-**Conferences**
-
-* [Rendezvous - Sherbrooke, Quebec - 2019](https://rendezvouscalligraphy.org/en/index)
+**Conferences**\
+The last international conference was in 2022; when another is announced that link will be added here.
 
 **Software**
 
