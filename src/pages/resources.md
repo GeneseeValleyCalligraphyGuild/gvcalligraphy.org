@@ -13,29 +13,20 @@ Do you need a calligrapher?
 
 - - -
 
-**Local Stores**
-
-Rochester Art Supply, West Main Street
-
-Barnes & Noble at Rochester Institute of Technology
-
-Michael's; stores in Greece, Pittsford, Henrietta
-
-JoAnn's; stores
-
-The Art Stop, Penfield Rd at 441, Penfield
+**Local Stores**\
+Rochester Art Supply, West Main Street\
+Michael's; stores in Greece, Pittsford, Henrietta\
+JoAnn's stores\
+The Art Stop, Penfield Rd at 441, Penfield\
+Hobby Lobby in Webster, Henrietta
 
 - - -
 
 **Calligraphy Classes in the Rochester Area:**
 
-* Greece C.S.D. Community Education\
-  585-865-1010\
-  Adult Classes September - June, Kids classes in the summer
+* Are School District Community Education Departments; check their websites
 * OASIS (Seniors Programs for those 50 years of age and older)\
   435 E. Henrietta Road, Rochester, (Monroe Community Hospital) 585-760-5440
-* Rush Henrietta C.S.D. Continuing Education\
-  585-359-7805
 * Town of Perinton, Recreation and Parks, Turk Hill Road, Perinton\
   585-223-5050\
   Adult Classes September - June, Kids classes in the summer
@@ -47,8 +38,7 @@ In addition many Monroe County libraries hold a single, introductory, hands on p
 
 Many area school districts offer introductory programs. Contact your school district's Community Education office.
 
-R.I.T.
-
+R.I.T.\
 You do not need to be a registered student at R.I.T. to take a calligraphy class. Each quarter a different hand is taught: fall is Italic, winter is Roman caps, and spring is Foundational/Uncial. Tuition is reduced for non-credit courses. Guild member Lorrie Frear teaches the classes. Contact R.I.T.
 
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
