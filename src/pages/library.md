@@ -8,10 +8,10 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 **Alphabets**
 
 * _Letters & Alphabets_, , Dover Pictura (book and CD)
-* _Historic Calligraphic Alphabet_s, Baker, Arthur, Dover Publications
+* _Historic Calligraphic Alphabets_, Baker, Arthur, Dover Publications
 * _Roman Capitals_, Baker, Arthur, Dover Publications
 * _Monograms and Alphabetic Devices_, Cirker, Howard & Blanche, Dover Publications
-* _Art in the Aplhabet_: A History of the Evolution of Hand Lettering, Day, Lewis F, Dover Publications
+* _Art in the Alphabet_: A History of the Evolution of Hand Lettering, Day, Lewis F, Dover Publications
 * _Ornamental Alphabets and Initials_, Harding, Alison, Thames and Hudson
 * _Allover Patterns with Letter Form_s, Larcher, Jean, Dover Publications
 * _Alphabets and Ornaments_, Lehner, Ernst, Dover Publications
@@ -25,13 +25,16 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _The Graceful Envelope 1996_
 * _The Gutenberg Bible_, The Huntington Library, San Marino, CA
 * _Calligraphic Swash Initials_, Baker, Arthur, Dover Books
+* _Cyberstudy - Pointed Brush - 2000, Vol. 1, Number 1_
 * _Ornamental Calligraphy_, Becker, George J., Dover Publications
 * _The First Writing Book_ (Arrighi’s Operina), Benson, John J., Yale University Press
+* _Pen & Brush Lettering, A Book of Alphabets,_ Ed. Booth, Stuart, et. al., Studio Vista
 * _Wind Songs_, Botts, Timothy, Tyndale House
 * _Door Posts_, Botts, Timothy, Tyndale House
 * _More Than Fine Writing: Irene Wellington, Calligrapher (1904-84)_, Child, Heather et. al., The Overlook Press
 * _How to Become a Professional Calligrapher,_ David, Stuart, Taplinger
 * _Medieval Calligraphy: Its History and Technique_, Drogin,Marc, Allanheld, Osmun & Co.
+* _The Glory of the Page,_ Glasgow University Library
 * _Complete Studio Tips for artists and graphic designers_, Gray, Bill, W. W. Norton & Co.
 * _The Calligrapher's Project Book_, Haines, Susanne, Harper Collins
 * _Creative Lettering_, Harvey, Michael
@@ -44,14 +47,15 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Creative Calligraphy_, Lynskey, Marie, Baker, Land and Unwin
 * _Learning Copperplate Spencerian Script,_ Menser, Larry, Hunt Speedball
 * _Choirs of Angels,_ Metropolitan Museum of Art
-* _The Illiminated Alphabet_, Noad, Timothy & Seligman, Patricia, Running Press Quarto
+* _The Illuminated Alphabet_, Noad, Timothy & Seligman, Patricia, Running Press Quarto
+* _The Art of Color Calligraphy,_ Noble, Mary & Adrian Waddington, Running Press
 * _Paint Your Own Illuminated Letters_, Oliver, Stephan, Chartwell Books
 * _Brush Lettering_, Reaves, Marilyn and Schulte, Eliza, Design Books
 * _Borders for Calligraphy,_ Shepherd, Margaret, Perigee
 * _Calligraphy Alphabets Made Easy_, Shepherd, Margaret, Perigree
 * _Calligraphy Projects for Pleasure and Profit,_ Shepherd, Margaret, Perigee
 * _Using Calligraphy_, Shepherd, Margaret, Collier Books
-* _Pen Calligraphy,_ Strom, Fran of Aha Calligraphy ( Video)
+* _Pen Calligraphy,_ Strom, Fran of Aha Calligraphy (VHS Video)
 * _Left-Handed Calligraphy_, Studley, Vance, Dover Publications
 * _Written Letters,_ Svaren, Jacqueline, Taplinger Publishing
 * _Pots & Pens Three- a Cook Book of Favorite Recipes_, Valley Calligraphy Guild, Valley Calligraphy Guild
@@ -61,6 +65,7 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Third Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
 * _Second Manual for the Calligraphic Arts,_ Van Milligen, Jane, Center for Calligraphic Arts
 * _Manual for the Calligraphic Arts_, Van Milligen, Jane, Center for Calligraphic Arts
+* _Mastering Copperplate Calligraphy,_ Winters, Eleanor, Dover
 * _The Art of Hand Lettering,_ Wotzkow, Helm, Dover Publications
 
 **Calligraphy for Children**
