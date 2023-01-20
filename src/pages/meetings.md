@@ -13,6 +13,9 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
+**February 1**\
+Join us at the perinton Recreation Center on Turk Hill Road for a fun evening exploring simple folded paper book and simple letters! Our guild presenter will show the group assembled different formats of folded books including accordion, pocket and meander books. Have fun later using them for birthday cards, photo albums or a journal. Simple monoline letter instruction will be included in the evening's program. There is no limit to the imagination!
+
 Second Saturdays from 11 AM - 1 PM at the Perinton Community Center (1350 Turk Hill Road or Barnes & Noble; Field trips to the RIT Cary Library and other locations are just a few of our activities. Stay in touch!
 
 Tentative Schedule for Second Saturdays: at Perinton February 11, March 11 and April 8;\
