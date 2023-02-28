@@ -15,7 +15,7 @@ Do you need a calligrapher?
 
 **Local Stores**\
 Rochester Art Supply, West Main Street\
-Michael's; stores in Greece, Pittsford, Henrietta\
+Michael's; stores in Greece, Pittsford, Henrietta, Webster\
 JoAnn's stores\
 The Art Stop, Penfield Rd at 441, Penfield\
 Hobby Lobby in Webster, Henrietta
