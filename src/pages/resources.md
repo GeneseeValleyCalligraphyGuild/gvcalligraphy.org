@@ -14,11 +14,13 @@ Do you need a calligrapher?
 - - -
 
 **Local Stores**\
+Craft Bits and Pieces, Fairport Village Landing\
 Rochester Art Supply, West Main Street\
 Michael's; stores in Greece, Pittsford, Henrietta, Webster\
 JoAnn's stores\
 The Art Stop, Penfield Rd at 441, Penfield\
-Hobby Lobby in Webster, Henrietta
+Hobby Lobby in Webster, Henrietta\
+Dan's Crafts and Things, Empire Blvd near 590
 
 - - -
 
