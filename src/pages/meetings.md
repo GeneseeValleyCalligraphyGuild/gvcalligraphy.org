@@ -3,7 +3,7 @@ templateKey: general-page
 title: Meetings
 path: /meetings
 ---
-**Beginning April 5, 2023 we will be meeting in the Perinton Recreation Center, 1350 Turk Hill Road, Fairpirt. Meetings are available on Zoom for members. **
+**Beginning April 5, 2023 we will be meeting in the Perinton Recreation Center, 1350 Turk Hill Road, Fairpirt. Meetings are available on Zoom for members.**
 
 We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist. (There is no meeting July 5 this year.)
 
