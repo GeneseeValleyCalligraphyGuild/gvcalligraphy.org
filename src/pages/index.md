@@ -11,9 +11,9 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
-**Beginning March 1, 2023 we will be meeting in the Community Room at the Barnes and Noble store in Pittsford Plaza. We plan to make these meetings hybrid to enable those who cannot be there in person to participate.**
+**Beginning April 5, 2023 we will be meeting in the Perinton Recreation Center, 1350 Turk Hill Road, Fairpirt. Meetings are available on Zoom for members. **
 
-We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
+We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist. (There is no meeting July 5 this year.)
 
 Have you always wondered about calligraphy and didn’t know who to ask? Are you looking to take up a new hobby that is relaxing and meaningful? Do you want to get away from computer generated mailings and send a hand lettered envelope to a relative or friend? Guild members will be on hand to answer questions and share resources with you.
 
@@ -21,7 +21,7 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
-**February 1**- Join us at the Perinton Community Center on Turk Hill Road for a fun evening exploring simple folded paper book and simple letters! Our guild presenter will show the group assembled different formats of folded books including accordion, pocket and meander books. Have fun later using them for birthday cards, photo albums or a journal. Simple monoline letter instruction will be included in the evening's program. There is no limit to the imagination!
+**February 1**- Join us at the Perinton Community Center on Turk Hill Road for a fun evening. There is no limit to the imagination!
 
 Second Saturdays at the Perinton Community Center or Barnes & Noble, Field trips to the RIT Cary Library and other locations are just a few of our activities. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
