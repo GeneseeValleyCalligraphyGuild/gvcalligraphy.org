@@ -23,7 +23,7 @@ path: /links
 
 **Book Arts**
 
-* [**Book Arts Tutorials - Lots of links to tutorials**](http://www.philobiblon.com/tutorials.shtml)
+* [Book Arts Tutorials - Lots of links to tutorials](http://www.philobiblon.com/tutorials.shtml)
 * [Douglas Jones - Bookbinding Tutorial](http://homepage.divms.uiowa.edu/~jones/making/book/index.shtml)
 * [Making Books with Children - Free Projects](http://www.makingbooks.com/freeprojects.shtml)
 
