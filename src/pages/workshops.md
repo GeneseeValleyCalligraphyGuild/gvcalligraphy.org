@@ -5,7 +5,11 @@ path: /workshops
 ---
 **Coming Workshops**
 
-Due to the Coronavirus, in-person workshops are on hold. We are working on other teaching and learning opportunities. See [John Neal's Website](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists) for a list of online classes.
+**Coming Soon!**
+
+Make Your Mark - A Zoom Workshop with Julie Wildman\
+Date: Saturday and Sunday, June 24 & 25, 2023 from 1 – 5 PM\
+Workshop and Registration Information
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
