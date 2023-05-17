@@ -9,7 +9,7 @@ path: /workshops
 
 Make Your Mark - A Zoom Workshop with Julie Wildman\
 Date: Saturday and Sunday, June 24 & 25, 2023 from 1 – 5 PM\
-Workshop and Registration Information
+[Workshop and Registration Information](img/Julie-Wildman_2306_Final.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
