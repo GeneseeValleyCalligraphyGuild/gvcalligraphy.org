@@ -21,15 +21,17 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
-**February 1**- Join us at the Perinton Community Center on Turk Hill Road for a fun evening. There is no limit to the imagination!
+Second Saturdays at Barnes & Noble in Pittsford Plaza, Field trips to the RIT Cary Library and other locations are just a few of our activities. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
-Second Saturdays at the Perinton Community Center or Barnes & Noble, Field trips to the RIT Cary Library and other locations are just a few of our activities. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
+**Coming Soon!**
+
+**Make Your Mark - A Zoom Workshop with Julie Wildman**\
+Date: Saturday and Sunday, June 24 & 25, 2023 from 1 – 5 PM\
+[Workshop and Registration Information](img/Julie-Wildman_2306_Final.pdf)
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
-In-person workshops are on hold for the time being; see [John Neal's Website](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists) for a list of online classes.
-
-We are a sponsor for the 2021 Legacies Conference - we sent them nearly 400 Crane artist trading cards to put in the grab bags!
+We were a sponsor for the 2021 Legacies Conference - we sent them nearly 400 Crane artist trading cards to put in the grab bags!
 
 ![](/img/legacies_sponsorlogo.jpg)
 
