@@ -5,12 +5,6 @@ path: /workshops
 ---
 **Coming Workshops**
 
-**Coming Soon!**
-
-Make Your Mark - A Zoom Workshop with Julie Wildman\
-Date: Saturday and Sunday, June 24 & 25, 2023 from 1 – 5 PM\
-[Workshop and Registration Information](img/Julie-Wildman_2306_Final.pdf)
-
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
 Give the gift of a guild membership or workshop! Instructions are on the order form. A gift certificate in the amount you send will be mailed to you (or to the recipient) in your self-addressed stamped envelope.
