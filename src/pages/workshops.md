@@ -5,9 +5,7 @@ path: /workshops
 ---
 **Coming Workshops**
 
-[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 2, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
-
-
+[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
