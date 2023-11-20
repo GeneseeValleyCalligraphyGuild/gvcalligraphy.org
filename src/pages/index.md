@@ -11,9 +11,9 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
-**We meet in the Perinton Recreation Center, 1350 Turk Hill Road, Fairpirt. Meetings are available on Zoom for members.**
+**We meet in the Perinton Recreation Center, 1350 Turk Hill Road, Fairport. Meetings are available on Zoom for members.**
 
-We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist. (There is no meeting July 5 this year.)
+We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
 
 Have you always wondered about calligraphy and didn’t know who to ask? Are you looking to take up a new hobby that is relaxing and meaningful? Do you want to get away from computer generated mailings and send a hand lettered envelope to a relative or friend? Guild members will be on hand to answer questions and share resources with you.
 
@@ -21,7 +21,10 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
-Second Saturdays at Barnes & Noble in Pittsford Plaza, Field trips to the RIT Cary Collection and other locations are just a few of our activities. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
+**Our Latest Workshop Offering - on Zoom **\
+****[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 2, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
+
+Second Saturdays at Barnes & Noble in Pittsford Plaza continue. We took a field trip to RIT to see their Cary Collection of fine art and letterpress history. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
