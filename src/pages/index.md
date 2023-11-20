@@ -21,7 +21,7 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
-**Our Latest Workshop Offering - on Zoom**\
+**Our Latest Workshop Offering - on Zoom**
 
 [Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
 
