@@ -21,8 +21,8 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **This year is our 40th Anniversary and we are planning many activities to celebrate.**
 
-**Our Latest Workshop Offering - on Zoom ** \
-[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 2, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
+**Our Latest Workshop Offering - on Zoom**
+[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
 
 Second Saturdays at Barnes & Noble in Pittsford Plaza continue. We took a field trip to RIT to see their Cary Collection of fine art and letterpress history. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
