@@ -3,9 +3,9 @@ templateKey: general-page
 title: Workshops
 path: /workshops
 ---
-**Coming Workshops**
+**Current Workshop**
 
-[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
+Nancy Hays Hills Out of Your Mind and Onto the Page - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
@@ -18,7 +18,6 @@ Past instructors have included:
 Annie Barnhardt (Gail Vick Barnhardt) - Design; Pencil Romans, Italic refresher, Foundational, Neuland, Pointed Brush Lettering, year-long class\
 Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
-\
 Nancy Culmone - Decorated Letter Quest\
 Sharon Hanse - Dimensional Calligraphy, using cut paper techniques, cut-and-fold, embossing\
 Randall Hasson - The Shape and Texture of Calligraphy\
