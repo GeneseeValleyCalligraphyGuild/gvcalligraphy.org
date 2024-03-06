@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-Nancy Hays Hills Out of Your Mind and Onto the Page - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
+Coming Up - Barbara Close in-person "words in Bloom" in May. Information will be online soon.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
