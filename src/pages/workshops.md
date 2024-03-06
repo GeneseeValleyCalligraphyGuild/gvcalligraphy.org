@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-Coming Up - Barbara Close in-person "words in Bloom" in May. Information will be online soon.
+Coming Up - Barbara Close in-person "Words in Bloom" in May. Information will be online soon.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
