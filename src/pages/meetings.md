@@ -11,32 +11,31 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2024 Programs**
 
-**No January 3 meeting. \
-**We will meet at the Perinton Recreation Center on Saturday, January 13 from 10 AM - 2 PM for Play Day** - Watercolor Explorations (bring your own watercolors, go to stations, short demos)  in person only.  Members can bring anything they are working on, and share things they've learned in classes or on their own. 
-
-**February 7** \
-Valentines
-
 **March 6** \
 "MAGIC LINES"  a presentation by Barbara Close on Zoom 
 
 **April 3** \
-Collage
+Homework Presentation from Nancy Hays Hills Workshop
 
 **May 1** \
-"drawing / line activity"  
+Uncial with Annie Barnhardt
 
 **June 5** \
-Demo of a HAND  (style and location to be determined)
+Collage with Sandy and Sylvia
 
 **July 3** \
 No Meeting
 
 **August** \
-SHOW at Barnes & Noble
+SHOW at Barnes & Noble; August 7 - walk-through of the exhibit
 
-**Second Saturdays** will continue in the Perinton Recreations Center. \
-Our first Second Saturday will be on February 17 to avoid conflict with our workshop on the 10th. Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
+**Second Saturdays** will continue in the Perinton Recreations Center.\
+March - Neurographic Drawing \
+April - What did you do with the paper you got at the December party? \
+May - Brush lettering, and bring pieces you're working on for the exhibit \
+June - share collage, get help for the exhibit \
+July - work on pieces for the exhibit \
+Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
 
 \----------
 
