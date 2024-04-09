@@ -11,12 +11,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2024 Programs**
 
-**March 6** \
-"MAGIC LINES"  a presentation by Barbara Close on Zoom 
-
-**April 3** \
-Homework Presentation from Nancy Hays Hills Workshop
-
 **May 1** \
 Uncial with Annie Barnhardt
 
