@@ -24,7 +24,6 @@ No Meeting
 SHOW at Barnes & Noble; August 7 - walk-through of the exhibit
 
 **Second Saturdays** will continue in the Perinton Recreations Center.\
-March - Neurographic Drawing \
 April - What did you do with the paper you got at the December party? \
 May - Brush lettering, and bring pieces you're working on for the exhibit \
 June - share collage, get help for the exhibit \
