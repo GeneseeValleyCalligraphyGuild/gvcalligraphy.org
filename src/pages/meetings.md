@@ -12,7 +12,7 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 **Tentative 2024 Programs**
 
 **May 1** \
-Uncial with Annie Barnhardt
+Uncial with Annie Barnhardt **This Meeting Starts at 6:30 PM.**
 
 **June 5** \
 Collage with Sandy and Sylvia
