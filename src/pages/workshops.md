@@ -21,6 +21,7 @@ Annie Barnhardt (Gail Vick Barnhardt) - Design; Pencil Romans, Italic refresher,
 Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
 Nancy Culmone - Decorated Letter Quest\
+Composition, Roman Capitals, and Copperplate\
 Sharon Hanse - Dimensional Calligraphy, using cut paper techniques, cut-and-fold, embossing\
 Randall Hasson - The Shape and Texture of Calligraphy\
 Carol Henshaw - "Positively Pencil", Introduction to Foundational\
