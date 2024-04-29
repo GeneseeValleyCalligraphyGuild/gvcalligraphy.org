@@ -40,7 +40,7 @@ In addition many Monroe County libraries hold a single, introductory, hands on p
 Many area school districts offer introductory programs. Contact your school district's Community Education office.
 
 R.I.T.\
-You do not need to be a registered student at R.I.T. to take a calligraphy class. Each quarter a different hand is taught: fall is Italic, winter is Roman caps, and spring is Foundational/Uncial. Tuition is reduced for non-credit courses. Guild member Lorrie Frear teaches the classes. Contact R.I.T.
+Each quarter a different hand is taught. Guild member Lorrie Frear teaches the classes. Contact R.I.T.
 
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
 
