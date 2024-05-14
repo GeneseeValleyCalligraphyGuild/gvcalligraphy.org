@@ -11,6 +11,8 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
+****[**Upcoming Class in Beginning Italic - May 23 - June 20**](img/beginning-italic2405-6.pdf)****
+
 **We meet in the Perinton Recreation Center, 1350 Turk Hill Road, Fairport. Meetings are available on Zoom for members. Some of our meetings will hybrid, and some will be on Zoom. See the Meetings page for a tentative schedule.**
 
 We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
