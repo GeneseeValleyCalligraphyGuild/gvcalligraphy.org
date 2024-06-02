@@ -11,9 +11,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2024 Programs**
 
-**May 1** \
-Uncial with Annie Barnhardt **This Meeting Starts at 6:30 PM.**
-
 **June 5** \
 Collage with Sandy and Sylvia
 
@@ -23,9 +20,7 @@ No Meeting
 **August** \
 SHOW at Barnes & Noble; August 7 - walk-through of the exhibit
 
-**Second Saturdays** will continue in the Perinton Recreations Center.\
-April - What did you do with the paper you got at the December party? \
-May - Brush lettering, and bring pieces you're working on for the exhibit \
+**Second Saturdays** will continue in the Perinton Recreation Center.\
 June - share collage, get help for the exhibit \
 July - work on pieces for the exhibit \
 Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
