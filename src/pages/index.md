@@ -21,13 +21,13 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 - - -
 
-**Our 40th Anniversary year ends in March; we are continuing to celebrate.**
+**Our Latest Workshop Offerings - more information to come**
 
-**Our Latest Workshop Offering - on Zoom**
+Pencil Romans with Annie Barnhardt (in person, in September)
 
-[Nancy Hays Hills Out of Your Mind and Onto the Page](/img/OOYMOTTP-2024-NancyHaysHills-For-Website.pdf) - January 20, 27, February 3 and 10, 2024 from 1 to 4 PM EST.
+Zoom workshop with Mike Gold in January, 2025.
 
-Second Saturdays at Barnes & Noble in Pittsford Plaza continue. We took a field trip to RIT to see their Cary Collection of fine art and letterpress history. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
+Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
 One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
