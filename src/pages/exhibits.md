@@ -3,7 +3,7 @@ templateKey: general-page
 title: Exhibits
 path: /exhibits
 ---
-**An Exhibit to celebrate our 40th Year is now on display at the Pittsford Barnes & Noble, until August 30. Over 80 pieces of calligraphic art are on display.**
+**An Exhibit  of our work will be on display at the Pittsford Barnes & Noble from August 3 until August 30. About 100 pieces of calligraphic art will be on display.**
 
 We're working on traveling exhibits that will be displayed at local libraries and businesses.
 
