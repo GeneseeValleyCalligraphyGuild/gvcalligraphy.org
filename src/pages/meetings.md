@@ -11,18 +11,19 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2024 Programs**
 
-**June 5** \
-Collage with Sandy and Sylvia
+**September 4** \
+Zoom only - internationally known calligrapher Marina Soria
 
-**July 3** \
-No Meeting
+**October 2** \
+Framing your work
 
-**August** \
-SHOW at Barnes & Noble; August 7 - walk-through of the exhibit
+**November 6**\
+Eraser Stamps
+
+**December 4**\
+Dry Embossing
 
 **Second Saturdays** will continue in the Perinton Recreation Center.\
-June - share collage, get help for the exhibit \
-July - work on pieces for the exhibit \
 Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
 
 \----------
