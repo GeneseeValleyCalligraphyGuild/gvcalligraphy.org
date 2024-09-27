@@ -5,9 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-Coming Up - Barbara Close in-person "Words in Bloom" in May. 
-
-[Flyer and Registration Form](../img/barbara-close-may2024-workshop.pdf)
+Coming Up - Mike Gold Zoom Workshop in January.  Information will be posted soon.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
