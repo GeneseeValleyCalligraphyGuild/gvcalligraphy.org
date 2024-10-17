@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-Coming Up - Mike Gold Zoom Workshop in January.  Information will be posted soon.
+Coming Up - Mike Gold Zoom Workshop in January. [Flyer and Registration information](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
