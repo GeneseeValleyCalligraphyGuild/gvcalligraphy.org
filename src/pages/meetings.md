@@ -9,21 +9,18 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 - - -
 
-**Tentative 2024 Programs**
+**Tentative 2025 Programs**
 
-**September 4** \
-Zoom only - internationally known calligrapher Marina Soria
+**There will be NO guild meeting nor PlayDay in January. **
 
-**October 2** \
-Framing your work
+**Our first 2025 Guild meeting will be Feb 5 - “Small Hand-made Books”**\
+Three days later, our Second Saturday on Feb 8 will be a hands on meeting (at Perinton Rec) to MAKE sample small books with 3 great teachers guiding us!  
 
-**November 6**\
-Eraser Stamps
+- - -
 
-**December 4**\
-Dry Embossing
+**March 5th Guest presenter (on zoom) Lily Yee, an artist and calligrapher from Toronto will do a Zoom retrospective of 40 years of her lettering. **
 
-**Second Saturdays** will continue in the Perinton Recreation Center.\
+**Second Saturdays** will continue in the Perinton Recreation Center\
 Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
 
 \----------
