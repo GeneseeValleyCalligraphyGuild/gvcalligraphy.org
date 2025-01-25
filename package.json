@@ -5,6 +5,7 @@
   "author": "Austin Green",
   "dependencies": {
     "bulma": "^1.0.3",
+    "decap-cms": "^3.5.0",
     "decap-cms-app": "^3.5.0",
     "gatsby": "^5.14.1",
     "gatsby-image": "^3.11.0",
