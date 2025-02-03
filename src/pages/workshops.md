@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-Coming Up - Mike Gold Zoom Workshop in January. [Flyer and Registration information](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
+We're planning more workshops for 2025.[](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
@@ -20,6 +20,7 @@ Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
 Nancy Culmone - Decorated Letter Quest\
 Lorrie Frear - Composition, Roman Capitals, and Copperplate\
+\
 Sharon Hanse - Dimensional Calligraphy, using cut paper techniques, cut-and-fold, embossing\
 Randall Hasson - The Shape and Texture of Calligraphy\
 Carol Henshaw - "Positively Pencil", Introduction to Foundational\
