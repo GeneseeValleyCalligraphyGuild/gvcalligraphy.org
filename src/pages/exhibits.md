@@ -3,7 +3,7 @@ templateKey: general-page
 title: Exhibits
 path: /exhibits
 ---
-**An Exhibit  of our work will be on display at the Pittsford Barnes & Noble from August 3 until August 30. About 100 pieces of calligraphic art will be on display.**
+**An Exhibit  of our work will be on display at the Pittsford Barnes & Noble in August.**
 
 We're working on traveling exhibits that will be displayed at local libraries and businesses.
 
