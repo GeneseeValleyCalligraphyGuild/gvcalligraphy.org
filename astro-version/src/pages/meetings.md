@@ -9,7 +9,7 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 - - -
 
-**Tentative 2025 Programs**
+## Tentative 2025 Programs
 
 **There will be NO guild meeting nor PlayDay in January.**
 
@@ -25,7 +25,7 @@ Watch for more dates coming up. We will bring pieces we're working on, and have 
 
 \----------
 
-**Some Previous Programs**
+## Some Previous Programs
 
 [Calligraphy and Snowflakes](../february-meeting) 
 
