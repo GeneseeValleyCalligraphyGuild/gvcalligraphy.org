@@ -1,0 +1,38 @@
+---
+import Navbar from '../components/Navbar.astro';
+const { frontmatter } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/img/gvcgpaula.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{frontmatter?.title} &mdash; Genesee Valley Calligraphy Guild</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	</head>
+	<body>
+		<Navbar />
+		<a href="/" title="Logo">
+			<img
+				src="/img/gvcgpaula.png"
+				alt="Genesee Valley Calligraphy Guild Logo"
+				style={{
+					width: "auto",
+					float: "left",
+				}}
+			/>
+		</a>
+		<slot />
+	</body>
+</html>
+
+<style>
+	html,
+	body {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
