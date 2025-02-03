@@ -11,9 +11,6 @@ The Genesee Valley Calligraphy Guild is a learning guild with members at all lev
 
 The guild was founded in April, 1983 in Rochester, NY. We practice beautiful hand lettering; some of our members have been with us from our founding, others are very new to calligraphy. We all love letters and lettering.
 
-**Announcing Mike Gold Breaking the Rules Zoom Workshop in January, 2025.**\
-[Flyer and Registration information](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
-
 **We meet in the Perinton Recreation Center, 1350 Turk Hill Road, Fairport. Meetings are available on Zoom for members. Some of our meetings will hybrid, and some will be on Zoom. See the Meetings page for a tentative schedule.**
 
 We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
@@ -24,13 +21,9 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings - more information to come**
 
-Pencil Romans with Annie Barnhardt (in person, in September)
-
-Zoom workshop with Mike Gold in January, 2025.
-
 Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
-One-day or weekend workshops are held two or more times a year. Recent instructors have included Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
+One-day or weekend workshops are held two or more times a year. Recent instructors have included Mike Gold, Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
 We were a sponsor for the 2021 Legacies Conference - we sent them nearly 400 Crane artist trading cards to put in the grab bags!
 
