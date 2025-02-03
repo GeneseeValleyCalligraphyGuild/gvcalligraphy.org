@@ -20,7 +20,7 @@ Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
 Nancy Culmone - Decorated Letter Quest\
 Lorrie Frear - Composition, Roman Capitals, and Copperplate\
-\
+Mike Gold - The Art of Breaking the Rules\
 Sharon Hanse - Dimensional Calligraphy, using cut paper techniques, cut-and-fold, embossing\
 Randall Hasson - The Shape and Texture of Calligraphy\
 Carol Henshaw - "Positively Pencil", Introduction to Foundational\
