@@ -16,7 +16,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 **Our first 2025 Guild meeting will be Feb 5 - “Small Hand-made Books”**\
 Three days later, our Second Saturday on Feb 8 will be a hands on meeting (at Perinton Rec) to MAKE sample small books with 3 great teachers guiding us!  
 
-- - -
 
 **March 5th Guest presenter (on zoom) Lily Yee, an artist and calligrapher from Toronto will do a Zoom retrospective of 40 years of her lettering.**
 
