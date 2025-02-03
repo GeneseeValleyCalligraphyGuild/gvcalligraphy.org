@@ -24,5 +24,3 @@ Enjoy the celebration of Mr Hughes 100th birthday on YouTube: <https://youtu.be/
 ![](/img/hughesaudience2.jpg)
 
 ![](/img/owencertificate.jpg)
-
-![]()
