@@ -27,16 +27,14 @@ path: /links
 * [Douglas Jones - Bookbinding Tutorial](http://homepage.divms.uiowa.edu/~jones/making/book/index.shtml)
 * [Making Books with Children - Free Projects](http://www.makingbooks.com/freeprojects.shtml)
 
-[Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
+* [Guidelines for Restoration and Preservation](https://www.barcodesinc.com/articles/restoration-preservation-guidelines.htm)
 
-[A Guide to Calligraphy for Weddings, Invitations and More](https://www.beau-coup.com/articles/guide-to-calligraphy-for-weddings-invitations-more.htm)
+* [A Guide to Calligraphy for Weddings, Invitations and More](https://www.beau-coup.com/articles/guide-to-calligraphy-for-weddings-invitations-more.htm)
 
 **Online Tools**
 
 * [Gridlines - Margaret Shepherd](http://www.margaretshepherd.com/worldcalligraphy_print.html)
-* [Grid / slant lines](http://www.anomaly.org/debbie/calligraphy/guidelines.html)
-* [Generate PDFs of grid / slant lines; lots of options](http://www.allunderone.org/calligraphy2/calligraphy.php)
-* [line generator](http://www.allunderone.org/calligraphy2/calligraphy.php)
+* [Grid / slant lines](http://www.anomaly.org/debbie/calligraphy/guidelines.html)[](http://www.allunderone.org/calligraphy2/calligraphy.php)[](http://www.allunderone.org/calligraphy2/calligraphy.php)
 * [Ductus](http://ductus.josselincuette.com/) - line generator
 
 **A few Calligraphers and Calligraphy Groups**
