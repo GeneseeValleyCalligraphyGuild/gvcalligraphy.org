@@ -14,6 +14,7 @@
     "@types/react-dom": "^19.0.3",
     "astro": "^5.2.3",
     "astro-default-frontmatter": "^0.0.1",
+    "bulma": "^1.0.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sass": "^1.83.4"

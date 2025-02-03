@@ -10,7 +10,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       // @ts-expect-error
-      [defaultLayout, "@layouts/Layout.astro"]
+      [defaultLayout, "@layouts/general-page.astro"]
     ]
   }
 });

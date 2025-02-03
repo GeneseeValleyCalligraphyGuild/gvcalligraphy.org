@@ -23,7 +23,7 @@ Three days later, our Second Saturday on Feb 8 will be a hands on meeting (at Pe
 **Second Saturdays** will continue in the Perinton Recreation Center\
 Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
 
-\----------
+---
 
 ## Some Previous Programs
 
