@@ -11,13 +11,7 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 ## Tentative 2025 Programs
 
-**There will be NO guild meeting nor PlayDay in January.**
-
-**Our first 2025 Guild meeting will be Feb 5 - “Small Hand-made Books”**\
-Three days later, our Second Saturday on Feb 8 will be a hands on meeting (at Perinton Rec) to MAKE sample small books with 3 great teachers guiding us!  
-
-
-**March 5th Guest presenter (on zoom) Lily Yee, an artist and calligrapher from Toronto will do a Zoom retrospective of 40 years of her lettering.**
+**On April 2, after a short business meeting we will review the Mike Gold workshop many guild members took earlier this year. We will also have a Free Trash and Treasures Table - bring tools, magazines, books, papers, etc. you want to give away. Anything that doesn't find a new home must be retrieved by the owner.**
 
 **Second Saturdays** will continue in the Perinton Recreation Center\
 Watch for more dates coming up. We will bring pieces we're working on, and have tools, techniques and paper for anyone who wishes to stop in and try.
