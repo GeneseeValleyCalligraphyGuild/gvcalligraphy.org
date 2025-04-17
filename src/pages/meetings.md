@@ -11,8 +11,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 ## Tentative 2025 Programs
 
-**On April 2,** after a short business meeting we will review the Mike Gold workshop many guild members took earlier this year. We will also have a Free Trash and Treasures Table - bring tools, magazines, books, papers, etc. you want to give away. Anything that doesn't find a new home must be retrieved by the owner.
-
 **May 7:**  Drawn letters with Rei, including Simple Sickels
 
 **June 4:** Work meeting - bring pieces you're working on for the guild exhibit to work on and get help if needed.
