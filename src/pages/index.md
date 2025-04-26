@@ -21,7 +21,7 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings**
 
-[Build Your Letters on a Firm Foundational!](<>) 
+[Build Your Letters on a Firm Foundational!](/img/foundational-flyer-final-250321.pdf)  \
 May 31 and June 1, in-person at Perinton Rec Center with Annie Barnhardt
 
 Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
