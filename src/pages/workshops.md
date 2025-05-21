@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-[Build Your Letters on a Firm Foundational!](/img/foundational-flyer-final-250321.pdf) \
+Build Your Letters on a Firm Foundational! \
 May 31 and June 1, in-person at Perinton Rec Center
 
 We're planning more workshops for 2025.[](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
