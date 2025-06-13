@@ -11,10 +11,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 ## Tentative 2025 Programs
 
-**May 7:**  Drawn letters with Rei, including Simple Sickels
-
-**June 4:** Work meeting - bring pieces you're working on for the guild exhibit to work on and get help if needed.
-
 **No meeting in July**
 
 **August 6:**  We will meet at Barnes and Noble in Pittsford to talk about our works in the exhibit.
