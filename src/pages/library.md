@@ -3,7 +3,7 @@ templateKey: general-page
 title: Library
 path: /library
 ---
-Items in our library may be borrowed between meetings, usually for one month. Titles include those listed here. Members interested in a particular book should contact Ellen Brannin before the next meeting.
+Items in our library may be borrowed between meetings, usually for one month. Titles include those listed here. If you don't see a title listed, check with our Librarian; these may not be all the books we have. Members interested in a particular book should contact our Librarian before the next meeting.
 
 **Alphabets**
 
@@ -13,7 +13,7 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Monograms and Alphabetic Devices_, Cirker, Howard & Blanche, Dover Publications
 * _Art in the Alphabet_: A History of the Evolution of Hand Lettering, Day, Lewis F, Dover Publications
 * _Ornamental Alphabets and Initials_, Harding, Alison, Thames and Hudson
-* _Allover Patterns with Letter Form_s, Larcher, Jean, Dover Publications
+* _Allover Patterns with Letter Forms_, Larcher, Jean, Dover Publications
 * _Alphabets and Ornaments_, Lehner, Ernst, Dover Publications
 * _The Illuminated Alphabet,_ Menten, Theodore, Dover Publications
 * _The Illuminated Alphabet,_ Seligman, Patricia & Noad, Timothy, Sterling Publishing Co.
@@ -25,12 +25,14 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _The Graceful Envelope 1996_
 * _The Gutenberg Bible_, The Huntington Library, San Marino, CA
 * _Calligraphic Swash Initials_, Baker, Arthur, Dover Books
+* _Foundational Calligraphy Manual_, Baker, Arthur, Scribner's
 * _Cyberstudy - Pointed Brush - 2000, Vol. 1, Number 1_
 * _Ornamental Calligraphy_, Becker, George J., Dover Publications
 * _The First Writing Book_ (Arrighi’s Operina), Benson, John J., Yale University Press
 * _Pen & Brush Lettering, A Book of Alphabets,_ Ed. Booth, Stuart, et. al., Studio Vista
-* _Wind Songs_, Botts, Timothy, Tyndale House
 * _Door Posts_, Botts, Timothy, Tyndale House
+* _Psalms_, Botts, Timothy, Tyndale House
+* _Wind Songs_, Botts, Timothy, Tyndale House
 * _More Than Fine Writing: Irene Wellington, Calligrapher (1904-84)_, Child, Heather et. al., The Overlook Press
 * _How to Become a Professional Calligrapher,_ David, Stuart, Taplinger
 * _Medieval Calligraphy: Its History and Technique_, Drogin,Marc, Allanheld, Osmun & Co.
@@ -38,6 +40,7 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Complete Studio Tips for artists and graphic designers_, Gray, Bill, W. W. Norton & Co.
 * _The Calligrapher's Project Book_, Haines, Susanne, Harper Collins
 * _Creative Lettering_, Harvey, Michael
+* _Advanced Calligraphy Techniques_, Hoare, Diana, Chartwell
 * _Decoration and Its Uses_, Johnston, Edward, Ten Speed Press
 * _Writing & Illuminated Lettering_, Johnston, Edward, Dover Publications
 * _Calligraphy in the Copperplate Style_, Kaufman, Herb & Homelsky, Geri, Dover Publications
@@ -54,6 +57,7 @@ Items in our library may be borrowed between meetings, usually for one month. Ti
 * _Borders for Calligraphy,_ Shepherd, Margaret, Perigee
 * _Calligraphy Alphabets Made Easy_, Shepherd, Margaret, Perigree
 * _Calligraphy Projects for Pleasure and Profit,_ Shepherd, Margaret, Perigee
+* _Calligraphy NOW_, Shepherd, Margaret,Putnam
 * _Using Calligraphy_, Shepherd, Margaret, Collier Books
 * _Pen Calligraphy,_ Strom, Fran of Aha Calligraphy (VHS Video)
 * _Left-Handed Calligraphy_, Studley, Vance, Dover Publications
