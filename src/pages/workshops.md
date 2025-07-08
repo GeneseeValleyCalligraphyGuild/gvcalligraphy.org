@@ -5,10 +5,10 @@ path: /workshops
 ---
 **Current Workshop**
 
-Build Your Letters on a Firm Foundational! \
-May 31 and June 1, in-person at Perinton Rec Center
-
-We're planning more workshops for 2025.[](/img/mike-gold_breaking-the-rules-final-flyer.pdf)
+The Unconventional Pointed Pen \
+...upper & lower case delights with Suzie Beringer \
+October 3, 4 and 5, Noon -4 PM on Zoom \
+Registration starts August 15. More information to come soon.
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
