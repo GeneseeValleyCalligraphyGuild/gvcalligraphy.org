@@ -22,7 +22,7 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 **Our Latest Workshop Offerings**
 
 The Unconventional Pointed Pen \
-...upper & lower case delights  \
+...upper & lower case delights  with Suzie Beringer \
 October 3, 4 and 5, Noon -4 PM on Zoom \
 Registration starts August 15. More information to come soon.
 
