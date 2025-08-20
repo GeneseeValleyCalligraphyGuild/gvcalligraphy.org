@@ -3,11 +3,10 @@ templateKey: general-page
 title: Workshops
 path: /workshops
 ---
-**Current Workshop**
+**[Current Workshop](</img/[The Unconventional Pointed Pen](/img/Suzie Beringer Workshop Final Flyer.pdf)>)**
 
-[The Unconventional Pointed Pen](/img/Suzie Beringer Workshop Final Flyer.pdf) \
-...upper & lower case delights with Suzie Beringer \
-October 3, 4 and 5, Noon -4 PM on Zoom 
+[The Unconventional Pointed Pen...upper & lower case delights with Suzie Beringer \
+October 3, 4 and 5, Noon -4 PM on Zoom ](</img/[The Unconventional Pointed Pen](/img/Suzie Beringer Workshop Final Flyer.pdf)>)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
