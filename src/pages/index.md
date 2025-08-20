@@ -22,11 +22,10 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 **Our Latest Workshop Offerings**
 
 
+[The Unconventional Pointed Pen...upper & lower case delights with Suzie Beringer \
+October 3, 4 and 5, Noon -4 PM on Zoom](/img/SuzieBeringerWorkshopFinalFlyer.pdf)
 
-[The Unconventional Pointed Pen...upper & lower case delights with Suzie Beringer 
-October 3, 4 and 5, Noon -4 PM on Zoom](<>)
 
-[](<>)
 
 Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
