@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-The Unconventional Pointed Pen \
+[The Unconventional Pointed Pen](/img/Suzie Beringer Workshop Final Flyer.pdf) \
 ...upper & lower case delights with Suzie Beringer \
 October 3, 4 and 5, Noon -4 PM on Zoom 
 
