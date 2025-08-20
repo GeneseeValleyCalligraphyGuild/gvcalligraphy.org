@@ -7,8 +7,7 @@ path: /workshops
 
 The Unconventional Pointed Pen \
 ...upper & lower case delights with Suzie Beringer \
-October 3, 4 and 5, Noon -4 PM on Zoom \
-Registration starts August 15. More information to come soon.
+October 3, 4 and 5, Noon -4 PM on Zoom 
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
