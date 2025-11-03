@@ -14,13 +14,12 @@ Do you need a calligrapher?
 - - -
 
 **Local Stores**\
-Craft Bits and Pieces, Fairport Village Landing\
-Rochester Art Supply, West Main Street\
-Michael's; stores in Greece, Pittsford, Henrietta, Webster\
-JoAnn's stores\
-The Art Stop, Penfield Rd at 441, Penfield\
-Hobby Lobby in Webster, Henrietta\
-Dan's Crafts and Things, Empire Blvd near 590
+* Craft Bits and Pieces, Fairport Village Landing
+* Rochester Art Supply, West Main Street, Rochester
+* Michael's; several in Monroe County
+* The Art Stop, Penfield Rd at 441, Penfield
+* Hobby Lobby; several in Monroe County
+* Dan's Crafts and Things, Empire Blvd near 590
 
 - - -
 
@@ -39,7 +38,7 @@ In addition many Monroe County libraries hold a single, introductory, hands on p
 
 Many area school districts offer introductory programs. Contact your school district's Community Education office.
 
-R.I.T.\
+**R.I.T.**\
 Each quarter a different hand is taught. Guild member Lorrie Frear teaches the classes. Contact R.I.T.
 
 The Genesee Valley Calligraphy Guild does not endorse any particular resource. We provide this list as a reference tool only.
