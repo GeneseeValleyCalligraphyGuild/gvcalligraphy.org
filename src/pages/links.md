@@ -4,7 +4,7 @@ title: Links
 path: /links
 ---
 **Store Web Sites**
-*[John Neal, Bookseller - Class and Instructor List](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists)
+* [John Neal, Bookseller - Class and Instructor List](https://www.johnnealbooks.com/prod_detail_list/instructor-book-supply-lists)
 * [Paper & Ink Arts](https://www.paperinkarts.com/)
 * [Sakura of America](https://www.sakuraofamerica.com/)
 * [Amazon.com](https://www.amazon.com/)
