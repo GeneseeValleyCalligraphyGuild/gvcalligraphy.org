@@ -11,14 +11,6 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2025 Programs**
 
-**Wed., October 1 GUILD MEETING  "Art Journals & Sketchbooks”  7 pm hybrid meeting.** \
-Several members will be sharing their sketchbooks and art journals and showing how they use them to: \
-record what they see \
-explore new media and tools \
-copy lettering or designs they like \
-do drafts of calligraphy for pieces, etc.\
-If you would like to share YOUR sketchbook at this meeting, please contact Toi by Monday, Sept. 22. This will be inspiring to see how different people approach their creative journeys. 
-
 **Wed., Nov. 5  GUILD MEETING  "Show 'n Tell" from what members have done in the Workshops and Meetings:  Mandalas, Snowflakes, Pointed Pen Lettering and more.** \
 Carol Henshaw will be the host as guild members share what they've learned. Because this is a hybrid meeting, any members may share their work. (Look for details about how and when to send your work so you can be included in the night of sharing). 
 
