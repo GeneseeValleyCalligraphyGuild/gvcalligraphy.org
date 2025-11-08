@@ -5,10 +5,8 @@ path: /workshops
 ---
 **Current Workshop**
 
-[The Unconventional Pointed Pen...upper & lower case delights with Suzie Beringer \
-October 3, 4 and 5, Noon -4 PM on Zoom](/img/SuzieBeringerWorkshopFinalFlyer.pdf)
-
-[](/img/SuzieBeringerWorkshopFinalFlyer.pdf)
+[Positive About the Negative... Adding Letters and Text with Violet Smythe \
+January 17, 24 and 31, 1 -4 PM on Zoom](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
