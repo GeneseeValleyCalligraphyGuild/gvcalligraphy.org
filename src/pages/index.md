@@ -21,11 +21,8 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings**
 
-
-[The Unconventional Pointed Pen...upper & lower case delights with Suzie Beringer \
-October 3, 4 and 5, Noon -4 PM on Zoom](/img/SuzieBeringerWorkshopFinalFlyer.pdf)
-
-
+[Positive About the Negative... Adding Letters and Text with Violet Smythe \
+January 17, 24 and 31, 1 -4 PM on Zoom](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
 
 Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
 
