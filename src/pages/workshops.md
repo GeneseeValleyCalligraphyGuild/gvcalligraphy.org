@@ -16,6 +16,7 @@ In January 2006 we held our first annual Play Day, playing with paints, inks and
 
 Past instructors have included:
 
+Suzie Beringer - Unconventional Pointed Pen\
 Annie Barnhardt (Gail Vick Barnhardt) - Design; Pencil Romans, Italic refresher, Foundational, Neuland, Pointed Brush Lettering, year-long class\
 Toi Clawson - Colored Pencil Techniques\
 Sandra Collins - techniques of card-making for calligraphers\
