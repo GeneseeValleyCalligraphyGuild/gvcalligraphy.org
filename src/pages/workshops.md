@@ -5,8 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-[Positive About the Negative... Adding Letters and Text with Violet Smythe \
-January 17, 24 and 31, 1 -4 PM on Zoom](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
+More information about our next workshop is coming soon.[](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
@@ -16,6 +15,7 @@ In January 2006 we held our first annual Play Day, playing with paints, inks and
 
 Past instructors have included:
 
+Violet Smythe - Positive About the Negative\
 Suzie Beringer - Unconventional Pointed Pen\
 Annie Barnhardt (Gail Vick Barnhardt) - Design; Pencil Romans, Italic refresher, Foundational, Neuland, Pointed Brush Lettering, year-long class\
 Toi Clawson - Colored Pencil Techniques\
