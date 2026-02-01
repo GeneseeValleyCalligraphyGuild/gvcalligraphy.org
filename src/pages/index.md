@@ -21,12 +21,9 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings**
 
-[Positive About the Negative... Adding Letters and Text with Violet Smythe \
-January 17, 24 and 31, 1 -4 PM on Zoom](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
+We will be hosting a Zoom workshop with Carrie Imai shortly, for members only. More information is coming.[](/img/POSITIVE-ABOUT-THE-NEGATIVE-FlierFinal.pdf)
 
-Second Saturdays continue. See our [Meetings](https://www.gvcalligraphy.org/meetings) page for the latest schedule.
-
-One-day or weekend workshops are held two or more times a year. Recent instructors have included Mike Gold, Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
+Workshops are held two or more times a year. Recent instructors have included Violet Smythe, Suzie Beringer, Mike Gold, Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
 We were a sponsor for the 2021 Legacies Conference - we sent them nearly 400 Crane artist trading cards to put in the grab bags!
 
