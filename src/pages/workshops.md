@@ -5,7 +5,7 @@ path: /workshops
 ---
 **Current Workshop**
 
-More information about our next workshop is coming soon.[Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
+More information about our next workshop is coming soon. [Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
