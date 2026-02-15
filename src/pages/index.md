@@ -21,7 +21,7 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings**
 
-We will be hosting a Zoom workshop with Carrie Imai shortly, for members only. More information is coming.
+We will be hosting a Zoom workshop with Carrie Imai shortly, for members only. [Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
 
 Workshops are held two or more times a year. Recent instructors have included Violet Smythe, Suzie Beringer, Mike Gold, Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
