@@ -13,7 +13,7 @@ The guild was founded in April, 1983 in Rochester, NY. We practice beautiful han
 
 **We meet in the Perinton Recreation Center, 1350 Turk Hill Road, Fairport. Meetings are available on Zoom for members. Some of our meetings will hybrid, and some will be on Zoom. See the Meetings page for a tentative schedule.**
 
-We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
+We meet on the First Wednesday of each month at 7:00 PM. We welcome prospective new members to attend a meeting before joining. The programs are varied and cover topics of interest to the lettering artist.
 
 Have you always wondered about calligraphy and didn’t know who to ask? Are you looking to take up a new hobby that is relaxing and meaningful? Do you want to get away from computer generated mailings and send a hand lettered envelope to a relative or friend? Guild members will be on hand to answer questions and share resources with you.
 
