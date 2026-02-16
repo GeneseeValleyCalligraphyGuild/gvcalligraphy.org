@@ -21,7 +21,9 @@ Have you always wondered about calligraphy and didn’t know who to ask? Are you
 
 **Our Latest Workshop Offerings**
 
-We will be hosting a Zoom workshop with Carrie Imai shortly, for members only. [Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
+On March 1, from 4-6 PM, Violet Smythe will present a short program on painting flowers, for members only. You Must be a member Before February 25 to join this session. [Flatbrush Flowers](/img/2026-VS-Flatbrush-Flowers.pdf)
+
+We will be hosting a Zoom workshop with Carrie Imai in March, for members only. [Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
 
 Workshops are held two or more times a year. Recent instructors have included Violet Smythe, Suzie Beringer, Mike Gold, Barbara Close, Randall Hasson, Annie Barnhardt (Gail Vick Barnhardt), Carol Henshaw, Carrie Imai, Rosie Kelly, Lorrie Frear.
 
