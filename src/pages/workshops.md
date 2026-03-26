@@ -5,9 +5,8 @@ path: /workshops
 ---
 **Current Workshop**
 
-On March 1, from 4-6 PM, Violet Smythe will present a short program on painting flowers, for members only. [Fabulous Flatbrush Flowers](/img/2026-VS-Flatbrush-Flowers.pdf)
-
-Also for members only - Italics with Carrie Imai March 14 and 21. [Italics with Carrie Imai](/img/GVCG_Carrie_2026.pdf)
+June 27/ 28  Design Workshop with Annie Barnhardt @ Perinton Rec. Center
+Details are coming soon! 
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
