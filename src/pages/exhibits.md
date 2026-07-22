@@ -5,6 +5,8 @@ path: /exhibits
 ---
 **An Exhibit  of our work will be on display at the Pittsford Barnes & Noble in August.**
 
+**[Invitation](/img/GVCG-Invitation.png)**
+
 We're working on traveling exhibits that will be displayed at local libraries and businesses.
 
 Below are some pictures of the exhibit at the Macedon and Penfield Libraries in 2018.
