@@ -5,8 +5,16 @@ path: /workshops
 ---
 **Current Workshop**
 
-June 27/ 28  Design Workshop with Annie Barnhardt @ Perinton Rec. Center
-Details are coming soon! 
+[Whimsical Birds with Barbara Close- September 6, 2026](/img/Whimsical-Birds-Workshop-with-Barbara-Close_Final.pdf)
+
+Also coming up:
+
+Cursive Italic with Barbara Close
+  - Saturday, November 7th and November 21st, 1 PM – 3 PM ET via Zoom
+  - Learn this elegant script that bridges formal calligraphy and everyday handwriting. More information and registration details will follow soon.
+
+Winter Extended Workshop with Andrea Wunderlich
+  - Saturdays, February 6th, 13th, and 20th, 10 AM – 2 PM ET via Zoom
 
 [Guild Gift Certificate Order Form](/img/gvcg-gift-certificate.pdf)
 
