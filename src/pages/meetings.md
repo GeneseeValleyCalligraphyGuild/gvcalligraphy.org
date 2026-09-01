@@ -11,11 +11,12 @@ We meet on the First Wednesday of each month at 7:00 PM,. We welcome prospective
 
 **Tentative 2026 Programs**
 
-**Aug. 5  Walk through for the Guild Exhibit  at Barnes and Noble in Pittsford, NY** 
-We hope to make a video recording of the Guild show, so that those unable to come see the Exhibit in person may also get to see the pieces! 
+**Wed. Sept 2 @ 7pm   Program: Lettering Outside of the Box**
+Perinton Rec Center (Hybrid meeting) 
 
-**Aug. 9 Opening Reception for the Exhibit** 
-
+**Wed. Oct 7 @ 7pm  Program: Letter Writing and Card Making for deployed military personnel.**
+Project for the 250th Celebration of the USA.  
+Janet and Elnora will explain more, so each member (and those outside the area) can help with this service project. 
 - - -
 
 ## Some Previous Programs
