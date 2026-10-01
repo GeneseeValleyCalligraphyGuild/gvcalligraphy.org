@@ -5,10 +5,6 @@ path: /workshops
 ---
 **Current Workshop**
 
-[Whimsical Birds with Barbara Close- September 6, 2026](/img/Whimsical-Birds-Workshop-with-Barbara-Close_Final.pdf)
-
-Also coming up:
-
 Cursive Italic with Barbara Close
   - Saturday, November 7th and November 21st, 1 PM – 3 PM ET via Zoom
   - Learn this elegant script that bridges formal calligraphy and everyday handwriting. More information and registration details will follow soon.
